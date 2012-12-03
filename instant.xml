@@ -8,10 +8,10 @@
       <Track channel1="off" channel2="off"/>
     </Tracks>
   </ExportDialog>
-  <Editor id="12" zoom-focus="0" zoom="3313.733619" snap-to="9" snap-mode="0" edit-point="EditAtMouse" playhead="24567069" show-waveforms="yes" show-waveforms-rectified="no" show-waveforms-recording="yes" show-measures="yes" follow-playhead="yes" stationary-playhead="no" xfades-visible="yes" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" show-editor-mixer="no">
+  <Editor id="12" zoom-focus="0" zoom="3313.733619" snap-to="9" snap-mode="0" edit-point="EditAtPlayhead" playhead="25864547" show-waveforms="yes" show-waveforms-rectified="no" show-waveforms-recording="yes" show-measures="yes" follow-playhead="yes" stationary-playhead="no" xfades-visible="yes" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" show-editor-mixer="no">
     <geometry x_size="1884" y_size="1052" x_pos="0" y_pos="0" x_off="4" y_off="24" edit_pane_pos="1546"/>
   </Editor>
   <Mixer narrow-strips="no" show-mixer="yes">
-    <geometry x_size="610" y_size="803" x_pos="0" y_pos="58" x_off="0" y_off="0" mixer_rhs_pane1_pos="265" mixer_list_hpane_pos="75"/>
+    <geometry x_size="711" y_size="842" x_pos="0" y_pos="58" x_off="0" y_off="0" mixer_rhs_pane1_pos="277" mixer_list_hpane_pos="75"/>
   </Mixer>
 </instant>
