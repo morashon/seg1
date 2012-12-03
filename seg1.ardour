@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="2.0.0" name="seg1" sample-rate="44100" id-counter="821">
+<Session version="2.0.0" name="seg1" sample-rate="44100" id-counter="1051">
   <Config>
     <Option name="output-auto-connect" value="2"/>
     <Option name="input-auto-connect" value="1"/>
     <Option name="mtc-port-name" value="control"/>
     <Option name="mmc-port-name" value="control"/>
     <Option name="midi-port-name" value="control"/>
-    <Option name="send-mmc" value="no"/>
-    <Option name="mmc-control" value="no"/>
-    <Option name="timecode-source-is-synced" value="no"/>
+    <Option name="send-mmc" value="0"/>
+    <Option name="mmc-control" value="0"/>
+    <Option name="timecode-source-is-synced" value="0"/>
     <Option name="meter-falloff" value="32"/>
     <end-marker-is-free val="no"/>
   </Config>
@@ -31,7 +31,7 @@
       <FadeOut default="yes" active="yes"/>
       <Envelope default="yes"/>
     </Region>
-    <Region id="639" name="ruf_with_intro_dbb576" start="0" length="13890081" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="name" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="635" source-1="637" channels="2" master-source-0="635" master-source-1="637">
+    <Region id="639" name="ruf_with_intro_dbb576" start="0" length="13890081" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="635" source-1="637" channels="2" master-source-0="635" master-source-1="637">
       <FadeIn default="yes" active="yes"/>
       <FadeOut default="yes" active="yes"/>
       <Envelope default="yes"/>
@@ -55,7 +55,7 @@
   <Connections/>
   <Routes>
     <Route flags="MasterOut" default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=0:signal=0">
-      <IO name="master" id="18" active="yes" inputs="{Dialogue1/out 1,Music1/out 1}{Dialogue1/out 2,Music1/out 2}" outputs="{system:playback_1}{system:playback_2}" gain="1.000000000000" iolimits="-1,2,-1,2">
+      <IO name="master" id="18" active="yes" inputs="{Music1/out 1,Dialogue1/out 1}{Music1/out 2,Dialogue1/out 2}" outputs="{system:playback_1}{system:playback_2}" gain="1.000000000000" iolimits="-1,2,-1,2">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
@@ -120,10 +120,10 @@
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="556"/>
+      <controllable name="recenable" id="895"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=2:signal=2" mode="Normal" diskstream-id="651">
-      <IO name="Music1" id="644" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.433224946260" iolimits="1,-1,-1,-1">
+      <IO name="Music1" id="644" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="1.475459337234" iolimits="1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
@@ -220,6 +220,9 @@
 638976 0.425231635570526
 643072 0.433224946260452
 692224 0.433224946260452
+3839001 0.408939790220033
+3962014 0.794914689242241
+3988605 1.47545932659288
 </events>
           </AutomationList>
         </Automation>
@@ -228,20 +231,20 @@
       <controllable name="mute" id="649"/>
       <remote_control id="3"/>
       <extra>
-        <GUI color="47406:41971:18641" height="70" shown_mixer="yes" shown_editor="yes">
+        <GUI color="47406:41971:18641" shown_mixer="yes" height="70" shown_editor="yes">
           <gain shown="yes" height="128"/>
-          <pan height="70" shown="yes"/>
+          <pan shown="yes" height="70"/>
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="650"/>
+      <controllable name="recenable" id="908"/>
     </Route>
   </Routes>
   <EditGroups/>
   <MixGroups/>
   <Playlists>
     <Playlist name="ruf_with_intro_dbb576" orig_diskstream_id="651" frozen="no">
-      <Region id="670" name="ruf_with_intro_dbb576" start="0" length="13890081" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="name" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="635" source-1="637" channels="2" master-source-0="635" master-source-1="637">
+      <Region id="670" name="ruf_with_intro_dbb576" start="0" length="13890081" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="635" source-1="637" channels="2" master-source-0="635" master-source-1="637">
         <FadeIn default="yes" active="yes"/>
         <FadeOut default="yes" active="yes"/>
         <Envelope default="yes"/>
@@ -286,8 +289,8 @@
     <Meter start="1|1|0" note-type="4.000000" beats-per-bar="4.000000" movable="no"/>
   </TempoMap>
   <ControlProtocols>
-    <Protocol name="Mackie" active="no"/>
     <Protocol name="Generic MIDI" active="no"/>
+    <Protocol name="Mackie" active="no"/>
   </ControlProtocols>
   <extra>
     <ClockModes primary="SMPTE" secondary="BBT" preroll="MinSec" postroll="MinSec" bigclock="SMPTE" editpoint="BBT" zoomrange="SMPTE" nudge="SMPTE" sfboxLengthClock="BBT" sfboxTimecodeClock="SMPTE"/>
