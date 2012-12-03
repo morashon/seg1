@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instant>
+  <ExportDialog sample_rate="44.1kHz" src_quality="best" dither_type="None" channel_count="stereo" header_format="WAV" bitdepth_format="16 bit" endian_format="Little-endian (Intel)" filename="/home/dbm/bench/morashon/seg1/export/export.wav" cue_file_type="None">
+    <Tracks>
+      <Track channel1="off" channel2="off"/>
+      <Track channel1="off" channel2="off"/>
+      <Track channel1="off" channel2="off"/>
+      <Track channel1="off" channel2="off"/>
+    </Tracks>
+  </ExportDialog>
+  <Editor id="12" zoom-focus="0" zoom="483.467218" snap-to="9" snap-mode="0" edit-point="EditAtMouse" playhead="1140274" show-waveforms="yes" show-waveforms-rectified="no" show-waveforms-recording="yes" show-measures="yes" follow-playhead="yes" stationary-playhead="no" xfades-visible="yes" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" show-editor-mixer="no">
+    <geometry x_size="1506" y_size="1052" x_pos="378" y_pos="0" x_off="382" y_off="24" edit_pane_pos="1382"/>
+  </Editor>
+  <Mixer narrow-strips="no" show-mixer="yes">
+    <geometry x_size="478" y_size="765" x_pos="-34" y_pos="58" x_off="0" y_off="0" mixer_rhs_pane1_pos="255" mixer_list_hpane_pos="75"/>
+  </Mixer>
+</instant>
