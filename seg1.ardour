@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="2.0.0" name="seg1" sample-rate="44100" id-counter="1051">
+<Session version="2.0.0" name="seg1" sample-rate="44100" id-counter="1410">
   <Config>
     <Option name="output-auto-connect" value="2"/>
     <Option name="input-auto-connect" value="1"/>
     <Option name="mtc-port-name" value="control"/>
     <Option name="mmc-port-name" value="control"/>
     <Option name="midi-port-name" value="control"/>
-    <Option name="send-mmc" value="0"/>
-    <Option name="mmc-control" value="0"/>
-    <Option name="timecode-source-is-synced" value="0"/>
+    <Option name="send-mmc" value="no"/>
+    <Option name="mmc-control" value="no"/>
+    <Option name="timecode-source-is-synced" value="no"/>
     <Option name="meter-falloff" value="32"/>
     <end-marker-is-free val="no"/>
   </Config>
@@ -17,8 +17,8 @@
     <Source name="intro_ref_instr-R.wav" id="110" flags="" channel="0"/>
     <Source name="intro_ref_vox-L.wav" id="168" flags="" channel="0"/>
     <Source name="intro_ref_vox-R.wav" id="170" flags="" channel="0"/>
-    <Source name="ruf_with_intro_dbb576-L.wav" id="635" flags="Writable,CanRename,Removable,RemovableIfEmpty" channel="0"/>
-    <Source name="ruf_with_intro_dbb576-R.wav" id="637" flags="Writable,CanRename,Removable,RemovableIfEmpty" channel="0"/>
+    <Source name="ruf_with_intro_dbb576-L.wav" id="635" flags="" channel="0"/>
+    <Source name="ruf_with_intro_dbb576-R.wav" id="637" flags="" channel="0"/>
   </Sources>
   <Regions>
     <Region id="112" name="intro_ref_instr" start="0" length="13890081" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="108" source-1="110" channels="2" master-source-0="108" master-source-1="110">
@@ -55,7 +55,7 @@
   <Connections/>
   <Routes>
     <Route flags="MasterOut" default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=0:signal=0">
-      <IO name="master" id="18" active="yes" inputs="{Music1/out 1,Dialogue1/out 1}{Music1/out 2,Dialogue1/out 2}" outputs="{system:playback_1}{system:playback_2}" gain="1.000000000000" iolimits="-1,2,-1,2">
+      <IO name="master" id="18" active="yes" inputs="{Dialogue1/out 1,Music1/out 1}{Dialogue1/out 2,Music1/out 2}" outputs="{system:playback_1}{system:playback_2}" gain="1.000000000000" iolimits="-1,2,-1,2">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
@@ -113,6 +113,48 @@
       <controllable name="solo" id="181"/>
       <controllable name="mute" id="182"/>
       <remote_control id="2"/>
+      <Insert type="ladspa" unique-id="1795" count="1">
+        <Redirect active="yes" placement="PostFader">
+          <IO name="C* Plate2x2 - Versatile plate reverb, stereo inputs" id="1269" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
+            <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
+            <controllable name="gaincontrol" id="1270"/>
+            <Automation>
+              <Automation/>
+            </Automation>
+          </IO>
+          <Automation visible=""/>
+        </Redirect>
+        <ladspa>
+          <port number="2" value="+0.399526"/>
+          <controllable name="bandwidth" id="1273"/>
+          <port number="3" value="+0.166015"/>
+          <controllable name="tail" id="1275"/>
+          <port number="4" value="+0.250375"/>
+          <controllable name="damping" id="1277"/>
+          <port number="5" value="+0.162371"/>
+          <controllable name="blend" id="1279"/>
+        </ladspa>
+        <controls>
+          <controllable name="bandwidth" id="1273" parameter="2"/>
+          <controllable name="tail" id="1275" parameter="3"/>
+          <controllable name="damping" id="1277" parameter="4"/>
+          <controllable name="blend" id="1279" parameter="5"/>
+        </controls>
+        <PortAutomation>
+          <port number="2">
+            <AutomationList id="1274" default="0.502000033855" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="3">
+            <AutomationList id="1276" default="0.374500006437" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="4">
+            <AutomationList id="1278" default="0.250375002623" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="5">
+            <AutomationList id="1280" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+        </PortAutomation>
+      </Insert>
       <extra>
         <GUI color="19600:26320:46617" shown_mixer="yes" height="70" shown_editor="yes">
           <gain shown="no" height="70"/>
@@ -120,10 +162,10 @@
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="895"/>
+      <controllable name="recenable" id="1125"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=2:signal=2" mode="Normal" diskstream-id="651">
-      <IO name="Music1" id="644" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="1.475459337234" iolimits="1,-1,-1,-1">
+      <IO name="Music1" id="644" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="1.625209569931" iolimits="1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
@@ -220,9 +262,46 @@
 638976 0.425231635570526
 643072 0.433224946260452
 692224 0.433224946260452
-3839001 0.408939790220033
+1595492 0.426254002870972
+1595493 0.426981031894684
+1599589 0.43499630689621
+1603685 0.451329201459885
+1607781 0.459648102521896
+1611877 0.485223025083542
+1615973 0.502795040607452
+1620069 0.548592805862427
+1624165 0.60717236995697
+1628261 0.627601504325867
+1632357 0.702770054340363
+1640549 0.795906543731689
+1644645 0.884008586406708
+1648741 0.884008586406708
+1652837 0.910351097583771
+1656933 0.923721134662628
+1661029 0.95086270570755
+1669221 0.95086270570755
+1673317 0.964635670185089
+1794048 0.972826778888702
+1863680 0.816943168640137
+1921782 0.434618324041367
+1988710 0.42321935488419
+2264598 0.421090197613218
+2264599 0.422196567058563
+2342423 0.422196567058563
+2346519 0.446362733840942
+2401558 1.02825284004211
+2462575 1.14552462100983
+2520462 1.05675983428955
+2568192 0.714760899543762
+2613248 0.650707185268402
+2635776 0.651604354381561
+2897920 0.638957142829895
+2957312 1.20746207237244
+3113420 1.20498216152191
+3151751 0.638957142829895
+3840236 0.560755670070648
 3962014 0.794914689242241
-3988605 1.47545932659288
+3993600 1.62520956993103
 </events>
           </AutomationList>
         </Automation>
@@ -237,7 +316,7 @@
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="908"/>
+      <controllable name="recenable" id="1138"/>
     </Route>
   </Routes>
   <EditGroups/>
@@ -289,8 +368,8 @@
     <Meter start="1|1|0" note-type="4.000000" beats-per-bar="4.000000" movable="no"/>
   </TempoMap>
   <ControlProtocols>
-    <Protocol name="Generic MIDI" active="no"/>
     <Protocol name="Mackie" active="no"/>
+    <Protocol name="Generic MIDI" active="no"/>
   </ControlProtocols>
   <extra>
     <ClockModes primary="SMPTE" secondary="BBT" preroll="MinSec" postroll="MinSec" bigclock="SMPTE" editpoint="BBT" zoomrange="SMPTE" nudge="SMPTE" sfboxLengthClock="BBT" sfboxTimecodeClock="SMPTE"/>
