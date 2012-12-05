@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="2.0.0" name="seg1" sample-rate="44100" id-counter="13184">
+<Session version="2.0.0" name="seg1" sample-rate="44100" id-counter="13204">
   <Config>
     <Option name="output-auto-connect" value="2"/>
     <Option name="input-auto-connect" value="1"/>
@@ -384,11 +384,11 @@
       </extra>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=1:signal=1" mode="Normal" diskstream-id="651">
-      <IO name="Music1" id="644" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.508553981781" iolimits="1,-1,-1,-1">
+      <IO name="Music1" id="644" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.071508079767" iolimits="1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
-          <StreamPanner x="0.0349970459938" type="Equal Power Stereo" muted="no">
+          <StreamPanner x="0.135871469975" type="Equal Power Stereo" muted="no">
             <Automation>
               <AutomationList id="656" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
                 <events>1765698 0
@@ -409,7 +409,7 @@
             </Automation>
             <controllable name="panner" id="655"/>
           </StreamPanner>
-          <StreamPanner x="0.990517318249" type="Equal Power Stereo" muted="no">
+          <StreamPanner x="0.167517066002" type="Equal Power Stereo" muted="no">
             <Automation>
               <AutomationList id="659" default="1" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
                 <events>467795 1
@@ -603,7 +603,9 @@
 23244677 0.436166077852249
 23570587 0
 46439776 0
-46517855 1.90469622612
+46509180 1.19205844402313
+48091450 1.39777195453644
+61161939 1.47484588623047
 </events>
           </AutomationList>
         </Automation>
@@ -613,7 +615,7 @@
       <remote_control id="3"/>
       <extra>
         <GUI color="17064:30741:13259" shown_mixer="yes" height="71" shown_editor="yes">
-          <gain height="118" shown="no"/>
+          <gain height="118" shown="yes"/>
           <pan height="139" shown="no"/>
         </GUI>
       </extra>
@@ -621,7 +623,7 @@
       <controllable name="recenable" id="12668"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=3:signal=3" mode="Normal" diskstream-id="6742">
-      <IO name="Dialogue2" id="6735" active="yes" inputs="{system:capture_1}" outputs="{master/in 1}{master/in 2}" gain="1.362968087196" iolimits="1,-1,-1,-1">
+      <IO name="Dialogue2" id="6735" active="yes" inputs="{system:capture_1}" outputs="{master/in 1}{master/in 2}" gain="1.216370820999" iolimits="1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
