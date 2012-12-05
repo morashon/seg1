@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="2.0.0" name="seg1" sample-rate="44100" id-counter="13198">
+<Session version="2.0.0" name="seg1" sample-rate="44100" id-counter="13204">
   <Config>
     <Option name="output-auto-connect" value="2"/>
     <Option name="input-auto-connect" value="1"/>
@@ -604,6 +604,7 @@
 23570587 0
 46439776 0
 46509180 1.19205844402313
+48091450 1.39777195453644
 61161939 1.47484588623047
 </events>
           </AutomationList>

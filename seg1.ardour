@@ -384,11 +384,11 @@
       </extra>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=1:signal=1" mode="Normal" diskstream-id="651">
-      <IO name="Music1" id="644" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.071508079767" iolimits="1,-1,-1,-1">
+      <IO name="Music1" id="644" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.934243500233" iolimits="1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
-          <StreamPanner x="0.135871469975" type="Equal Power Stereo" muted="no">
+          <StreamPanner x="0" type="Equal Power Stereo" muted="no">
             <Automation>
               <AutomationList id="656" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
                 <events>1765698 0
@@ -409,7 +409,7 @@
             </Automation>
             <controllable name="panner" id="655"/>
           </StreamPanner>
-          <StreamPanner x="0.167517066002" type="Equal Power Stereo" muted="no">
+          <StreamPanner x="1" type="Equal Power Stereo" muted="no">
             <Automation>
               <AutomationList id="659" default="1" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
                 <events>467795 1
@@ -524,7 +524,7 @@
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
-          <StreamPanner x="0.0215827338398" type="Equal Power Stereo" muted="no">
+          <StreamPanner x="0.035971224308" type="Equal Power Stereo" muted="no">
             <Automation>
               <AutomationList id="2029" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
                 <events>13907740 0.0359712243080139
@@ -540,7 +540,7 @@
             </Automation>
             <controllable name="panner" id="2028"/>
           </StreamPanner>
-          <StreamPanner x="0.971222996712" type="Equal Power Stereo" muted="no">
+          <StreamPanner x="1" type="Equal Power Stereo" muted="no">
             <Automation>
               <AutomationList id="2032" default="1" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
                 <events>18600202 1
@@ -623,7 +623,7 @@
       <controllable name="recenable" id="12668"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=3:signal=3" mode="Normal" diskstream-id="6742">
-      <IO name="Dialogue2" id="6735" active="yes" inputs="{system:capture_1}" outputs="{master/in 1}{master/in 2}" gain="1.216370820999" iolimits="1,-1,-1,-1">
+      <IO name="Dialogue2" id="6735" active="yes" inputs="{system:capture_1}" outputs="{master/in 1}{master/in 2}" gain="1.320465922356" iolimits="1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
@@ -700,7 +700,7 @@
       <controllable name="recenable" id="12681"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=4:signal=4" mode="Normal" diskstream-id="184">
-      <IO name="Dialogue1" id="177" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="1.047730207443" iolimits="1,-1,-1,-1">
+      <IO name="Dialogue1" id="177" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="1.180368661880" iolimits="1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
@@ -911,7 +911,7 @@
           <controllable name="tail" id="1275"/>
           <port number="4" value="+0.255527"/>
           <controllable name="damping" id="1277"/>
-          <port number="5" value="+0.265041"/>
+          <port number="5" value="+0.250000"/>
           <controllable name="blend" id="1279"/>
         </ladspa>
         <controls>
