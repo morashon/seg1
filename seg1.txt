@@ -1,8 +1,8 @@
-Morashon: The Open Source Musical
-indeed! say something here
+Morashon: The Open Source Musical. Indeed! say something here
 
-{time=10}
+{time=5}
 
+{hold=25}
 Scene: Starlite Lounge, a piano bar.
 spotlight comes up on piano player -- typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking midi setup doing drums, strings etc; he plays a shiny black baby grand.
 Plays intro to Starlite with much fanfare. More lights come up slowly, revealing three people at the bar -- an older woman in a provocative dress, a poorly dressed drunk, and Thisone.
@@ -13,17 +13,25 @@ _Pianoman: Welcome, my friends, to the Starlite lounge -- where music is magic, 
 
 _This evening I bring you a cougar, past her prime; a lifelong alcoholic; and a young man deep in contemplation of his place in the Universe. 
 
+{time=41}
+
 _A perfect setting for the magic of music, which is, as I have said (and now I repeat, in case you weren't listening:) simply, Starlitetm !
 
-_Morashon... oy, what a cad. Anyone remember that getup? Everyone is king for a day -- or is it 15 milliseconds? Shall I compare thee to your previous release? Let me enumerate the ways... and means... Let's not forget the soap!
+{time=57}
 
-{time=100}
+_Morashon... oy, what a cad. Anyone remember that getup? Everyone is king for a day -- or is it 15 milliseconds? 
+
+{time=72}
+
+_Shall I compare thee to your previous release? Let me enumerate the ways... and means... Let's not forget the soap!
 
 Pause... All lights fade as a spot comes up on Thisone at the bar, twirling a stick in his drink. Music segues again
 
+{time=85}
+
 _Pianoman: And now, for something completely different -- and yet strangely familiar. Observe, the old standby, when you get right down to it, everybody has one -- or knows somebody who keeps one in their pocket. I present to you, the evergreen perennial -- a Broken Heart.
 
-{time=105}
+{time=104}
 
 (Thisone sings)
 
@@ -44,7 +52,7 @@ _
 And if you dropped the question
 I would grab the ball
 
-{time=144}
+{time=142}
 
 _
 Now I'm
@@ -59,7 +67,7 @@ I'm not so sure
 I can give you answers 
 that will fit inside your brain
 
-{time=172}
+{time=170}
 
 _
 I can't predict your actions
@@ -73,13 +81,15 @@ There's a feeling I can't let go free
 This emotion I used to know
 One moment I can't let go
 
+{time=190}
+
 _
 Back when I flew wild and crazy
 No one ever could stand before me
 I used to feel oh so free
 Now there's a prisoner in me
 
-{time=202}
+{time=200}
 
 visuals?
 
@@ -89,6 +99,8 @@ Keeps moving
 My heart beats still
 I keep pushing on
 
+
+{nudge=-1}
 _
 My flesh
 Is willing
@@ -101,7 +113,7 @@ I can't describe my feelings
 I can't share my pain
 Oh oh
 
-{time=239}
+{time=237}
 
 _
 (hope)        There's a prisoner deep inside me
@@ -127,7 +139,7 @@ _
 (forgiveness) I knew what I had to be
 (pain)            I saw the prisoner in me
 
-{time=277}
+{time=275}
 
 _
 Man: The only way you could succeed 
