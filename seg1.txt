@@ -1,0 +1,144 @@
+Morashon: The Open Source Musical
+indeed! say something here
+
+{time=10}
+
+Scene: Starlite Lounge, a piano bar.
+spotlight comes up on piano player -- typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking midi setup doing drums, strings etc; he plays a shiny black baby grand.
+Plays intro to Starlite with much fanfare. More lights come up slowly, revealing three people at the bar -- an older woman in a provocative dress, a poorly dressed drunk, and Thisone.
+
+{time=18}
+
+_Pianoman: Welcome, my friends, to the Starlite lounge -- where music is magic, and magic surrounds us every day. 
+
+_This evening I bring you a cougar, past her prime; a lifelong alcoholic; and a young man deep in contemplation of his place in the Universe. 
+
+_A perfect setting for the magic of music, which is, as I have said (and now I repeat, in case you weren't listening:) simply, Starlitetm !
+
+_Morashon... oy, what a cad. Anyone remember that getup? Everyone is king for a day -- or is it 15 milliseconds? Shall I compare thee to your previous release? Let me enumerate the ways... and means... Let's not forget the soap!
+
+{time=100}
+
+Pause... All lights fade as a spot comes up on Thisone at the bar, twirling a stick in his drink. Music segues again
+
+_Pianoman: And now, for something completely different -- and yet strangely familiar. Observe, the old standby, when you get right down to it, everybody has one -- or knows somebody who keeps one in their pocket. I present to you, the evergreen perennial -- a Broken Heart.
+
+{time=100}
+
+(Thisone sings)
+
+_
+When I
+Was younger
+When I was much
+Younger than today
+
+_
+I knew
+The answer
+I knew the score
+I knew what to say to you
+or anyone at all
+
+_
+And if you dropped the question
+I would grab the ball
+
+{time=139}
+
+_
+Now I'm
+Much older
+Now I can see
+Things I missed before
+
+_
+One world
+One vision
+I'm not so sure
+I can give you answers 
+that will fit inside your brain
+
+{time=167}
+
+_
+I can't predict your actions
+I can't feel your pain
+
+
+{nudge=5}
+_
+There's a prisoner deep inside me
+There's a feeling I can't let go free
+This emotion I used to know
+One moment I can't let go
+
+_
+Back when I flew wild and crazy
+No one ever could stand before me
+I used to feel oh so free
+Now there's a prisoner in me
+
+{time=197}
+
+visuals?
+
+_
+My life
+Keeps moving
+My heart beats still
+I keep pushing on
+
+_
+My flesh
+Is willing
+My will is gone
+I can't answer questions 
+that don't fit inside my brain
+
+_
+I can't describe my feelings
+I can't share my pain
+Oh oh
+
+{time=234}
+
+_
+(hope)        There's a prisoner deep inside me
+(feelings)   There's a feeling I can't let go free
+(child)        This emotion I used to know
+(despair)    One moment I can't let go
+
+_
+(flourish)     I thought I could touch the morning
+(meaning)   Nothing ever would stand in my way
+(nothing)     I used to feel oh so free
+(just)           Now there's a prisoner in me
+
+_
+(heaven)      There's a prisoner deep inside me
+(money)       There's a feeling I can't let go free
+(bloodless)   This emotion I used to know
+(protection)  One moment I can't let go
+
+_
+(questions)    One time when I felt so lonely
+(answers)      A miracle set my heart free
+(forgiveness) I knew what I had to be
+(pain)            I saw the prisoner in me
+
+{time=272}
+
+_
+Man: The only way you could succeed 
+was by failing.
+Other: No!
+Man: The only way you could succeed 
+was by failing.
+Woman: Really?
+
+{nudge=-6}
+Fade out.
+
+{time=300}
+
