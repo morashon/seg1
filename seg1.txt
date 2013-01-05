@@ -7,7 +7,7 @@ Scene: Starlite Lounge, a piano bar.
 spotlight comes up on piano player -- typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking midi setup doing drums, strings etc; he plays a shiny black baby grand.
 Plays intro to Starlite with much fanfare. More lights come up slowly, revealing three people at the bar -- an older woman in a provocative dress, a poorly dressed drunk, and Thisone.
 
-{time=18}
+{time=14.5}
 
 _Pianoman: Welcome, my friends, to the Starlite lounge -- where music is magic, and magic surrounds us every day. 
 
@@ -23,7 +23,7 @@ Pause... All lights fade as a spot comes up on Thisone at the bar, twirling a st
 
 _Pianoman: And now, for something completely different -- and yet strangely familiar. Observe, the old standby, when you get right down to it, everybody has one -- or knows somebody who keeps one in their pocket. I present to you, the evergreen perennial -- a Broken Heart.
 
-{time=100}
+{time=105}
 
 (Thisone sings)
 
@@ -44,7 +44,7 @@ _
 And if you dropped the question
 I would grab the ball
 
-{time=139}
+{time=144}
 
 _
 Now I'm
@@ -59,7 +59,7 @@ I'm not so sure
 I can give you answers 
 that will fit inside your brain
 
-{time=167}
+{time=172}
 
 _
 I can't predict your actions
@@ -79,7 +79,7 @@ No one ever could stand before me
 I used to feel oh so free
 Now there's a prisoner in me
 
-{time=197}
+{time=202}
 
 visuals?
 
@@ -101,7 +101,7 @@ I can't describe my feelings
 I can't share my pain
 Oh oh
 
-{time=234}
+{time=239}
 
 _
 (hope)        There's a prisoner deep inside me
@@ -127,7 +127,7 @@ _
 (forgiveness) I knew what I had to be
 (pain)            I saw the prisoner in me
 
-{time=272}
+{time=277}
 
 _
 Man: The only way you could succeed 
@@ -140,5 +140,5 @@ Woman: Really?
 {nudge=-6}
 Fade out.
 
-{time=300}
+{time=306}
 
