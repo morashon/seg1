@@ -4,8 +4,7 @@ Morashon: The Open Source Musical. Indeed! say something here
 
 {hold=25}
 Scene: Starlite Lounge, a piano bar.
-spotlight comes up on piano player -- typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking midi setup doing drums, strings etc; he plays a shiny black baby grand.
-Plays intro to Starlite with much fanfare. More lights come up slowly, revealing three people at the bar -- an older woman in a provocative dress, a poorly dressed drunk, and Thisone.
+spotlight comes up on piano player -- typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking midi setup doing drums, strings etc; he plays a shiny black baby grand. Intro to "Starlite" is played with much fanfare. More lights come up slowly, revealing three people at the bar -- an older woman in a provocative dress, a poorly dressed drunk, and our protagonist, Thisone.
 
 {time=14.5}
 
@@ -15,15 +14,29 @@ _This evening I bring you a cougar, past her prime; a lifelong alcoholic; and a 
 
 {time=41}
 
-_A perfect setting for the magic of music, which is, as I have said (and now I repeat, in case you weren't listening:) simply, Starlitetm !
+_
+A perfect setting for the magic of music, which is, as I have said (and now I repeat, in case you weren't listening:) simply Starlite!
 
 {time=57}
 
-_Morashon... oy, what a cad. Anyone remember that getup? Everyone is king for a day -- or is it 15 milliseconds? 
+_Pianoman:
+Morashon... oy, what a cad. Anyone remember that getup? 
+
+_Pianoman (in Morashon's voice):
+Everyone is king for a day -- or is it 15 milliseconds? 
 
 {time=72}
 
-_Shall I compare thee to your previous release? Let me enumerate the ways... and means... Let's not forget the soap!
+_Pianoman (in a woman's voice):
+Shall I compare thee to your previous release? 
+
+{nudge=-1.5}
+_(unknown voice):
+Let me enumerate the ways... and means... 
+
+{nudge=-4}
+_Pianoman:
+Let's not forget the soap!
 
 Pause... All lights fade as a spot comes up on Thisone at the bar, twirling a stick in his drink. Music segues again
 
@@ -35,7 +48,7 @@ _Pianoman: And now, for something completely different -- and yet strangely fami
 
 (Thisone sings)
 
-_
+_Thisone:
 When I
 Was younger
 When I was much
