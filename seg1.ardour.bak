@@ -4355,7 +4355,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="15085" flags="GainLike" value="0.071508079767"/>
+        <Controllable name="gaincontrol" id="15085" flags="GainLike" value="0.934243500233"/>
       </Processor>
       <Processor id="15086" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="15087" name="Music1" active="yes" user-latency="0" own-input="yes" own-output="no" output="Music1" type="main-outs" role="Main">
@@ -4488,7 +4488,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="15147" flags="GainLike" value="1.441133856773"/>
+        <Controllable name="gaincontrol" id="15147" flags="GainLike" value="1.320465922356"/>
       </Processor>
       <Processor id="14047" name="GLAME Butterworth Highpass" active="yes" user-latency="0" type="ladspa" unique-id="1904" count="1">
         <Automation>
@@ -4696,7 +4696,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="15190" flags="GainLike" value="0.981011867523"/>
+        <Controllable name="gaincontrol" id="15190" flags="GainLike" value="1.180368661880"/>
       </Processor>
       <Processor id="1269" name="C* Plate2x2 - Versatile plate reverb, stereo inputs" active="yes" user-latency="0" type="ladspa" unique-id="1795" count="1">
         <Automation>
@@ -4841,12 +4841,12 @@
           <Port number="2" value="+0.399526"/>
           <Port number="3" value="+0.166015"/>
           <Port number="4" value="+0.255527"/>
-          <Port number="5" value="+0.280505"/>
+          <Port number="5" value="+0.250000"/>
         </ladspa>
         <Controllable name="bandwidth" id="15199" flags="" value="0.399526000023" parameter="2"/>
         <Controllable name="tail" id="15201" flags="" value="0.166014999151" parameter="3"/>
         <Controllable name="damping" id="15203" flags="" value="0.255526989698" parameter="4"/>
-        <Controllable name="blend" id="15205" flags="" value="0.280504971743" parameter="5"/>
+        <Controllable name="blend" id="15205" flags="" value="0.250000000000" parameter="5"/>
       </Processor>
       <Processor id="15191" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="15192" name="Dialogue1" active="yes" user-latency="0" own-input="yes" own-output="no" output="Dialogue1" type="main-outs" role="Main">
@@ -9231,7 +9231,7 @@
         <Object id="automation 15076" height="72" visible="0"/>
         <Object id="route 2017" color="47548:5310:36380"/>
         <Object id="rtav 2017" height="72" visible="1"/>
-        <Object id="automation 15116" height="359" visible="1"/>
+        <Object id="automation 15116" height="359" visible="0"/>
         <Object id="automation 15103" height="72" visible="0"/>
         <Object id="automation 15107" height="72" visible="0"/>
         <Object id="route 6735" color="43053:559:39889"/>

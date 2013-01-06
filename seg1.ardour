@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3001" name="seg1" sample-rate="44100" id-counter="16968" event-counter="0">
+<Session version="3001" name="seg1" sample-rate="44100" id-counter="18266" event-counter="0">
   <Config>
     <Option name="xfade-choice" value="ConstantPowerMinus3dB"/>
     <Option name="destructive-xfade-msecs" value="2"/>
@@ -4213,16 +4213,16 @@
     <Route id="18" name="master" default-type="audio" flags="MasterOut" active="yes" phase-invert="00" denormal-protection="no" meter-point="MeterPostFader" order-keys="EditorSort=0:MixerSort=0" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0" solo-isolated="no" solo-safe="no">
       <IO name="master" id="18" direction="Input" default-type="audio" user-latency="0">
         <Port type="audio" name="master/audio_in 1">
-          <Connection other="Music1/audio_out 1"/>
-          <Connection other="Music2/audio_out 1"/>
-          <Connection other="Dialogue2/audio_out 1"/>
           <Connection other="Dialogue1/audio_out 1"/>
+          <Connection other="Dialogue2/audio_out 1"/>
+          <Connection other="Music2/audio_out 1"/>
+          <Connection other="Music1/audio_out 1"/>
         </Port>
         <Port type="audio" name="master/audio_in 2">
-          <Connection other="Music1/audio_out 2"/>
-          <Connection other="Music2/audio_out 2"/>
-          <Connection other="Dialogue2/audio_out 2"/>
           <Connection other="Dialogue1/audio_out 2"/>
+          <Connection other="Dialogue2/audio_out 2"/>
+          <Connection other="Music2/audio_out 2"/>
+          <Connection other="Music1/audio_out 2"/>
         </Port>
       </IO>
       <IO name="master" id="18" direction="Output" default-type="audio" user-latency="0">
@@ -4355,7 +4355,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="15085" flags="GainLike" value="0.934243500233"/>
+        <Controllable name="gaincontrol" id="15085" flags="GainLike" value="0.210070385921"/>
       </Processor>
       <Processor id="15086" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="15087" name="Music1" active="yes" user-latency="0" own-input="yes" own-output="no" output="Music1" type="main-outs" role="Main">
@@ -4443,7 +4443,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="15116" flags="GainLike" value="0.000000000000"/>
+        <Controllable name="gaincontrol" id="15116" flags="GainLike" value="0.260785327705"/>
       </Processor>
       <Processor id="15117" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="15118" name="Music2" active="yes" user-latency="0" own-input="yes" own-output="no" output="Music2" type="main-outs" role="Main">
@@ -4488,7 +4488,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="15147" flags="GainLike" value="1.320465922356"/>
+        <Controllable name="gaincontrol" id="15147" flags="GainLike" value="1.441133856773"/>
       </Processor>
       <Processor id="14047" name="GLAME Butterworth Highpass" active="yes" user-latency="0" type="ladspa" unique-id="1904" count="1">
         <Automation>
@@ -4497,7 +4497,7 @@
 20970586 600.588795986798
 21119494 614.889687915966
 21128680 4.40999984741211
-32805188 4137.8662498792
+31987532 4.41009839668733
 32805189 4.40999984741211
 33066582 4.40999984741211
 33084302 614.889687915966
@@ -4507,10 +4507,10 @@
           </AutomationList>
         </Automation>
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
-          <Port number="0" value="+4.410000"/>
+          <Port number="0" value="+4.410022"/>
           <Port number="1" value="+0.755000"/>
         </ladspa>
-        <Controllable name="Cutoff Frequency (Hz)" id="15156" flags="" value="4.409999847412" parameter="0"/>
+        <Controllable name="Cutoff Frequency (Hz)" id="15156" flags="" value="4.410021781921" parameter="0"/>
         <Controllable name="Resonance" id="15158" flags="" value="0.754999995232" parameter="1"/>
       </Processor>
       <Processor id="6887" name="Plate reverb" active="yes" user-latency="0" type="ladspa" unique-id="1423" count="1">
@@ -4696,7 +4696,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="15190" flags="GainLike" value="1.180368661880"/>
+        <Controllable name="gaincontrol" id="15190" flags="GainLike" value="0.981011867523"/>
       </Processor>
       <Processor id="1269" name="C* Plate2x2 - Versatile plate reverb, stereo inputs" active="yes" user-latency="0" type="ladspa" unique-id="1795" count="1">
         <Automation>
@@ -4841,12 +4841,12 @@
           <Port number="2" value="+0.399526"/>
           <Port number="3" value="+0.166015"/>
           <Port number="4" value="+0.255527"/>
-          <Port number="5" value="+0.250000"/>
+          <Port number="5" value="+0.280505"/>
         </ladspa>
         <Controllable name="bandwidth" id="15199" flags="" value="0.399526000023" parameter="2"/>
         <Controllable name="tail" id="15201" flags="" value="0.166014999151" parameter="3"/>
         <Controllable name="damping" id="15203" flags="" value="0.255526989698" parameter="4"/>
-        <Controllable name="blend" id="15205" flags="" value="0.250000000000" parameter="5"/>
+        <Controllable name="blend" id="15205" flags="" value="0.280504971743" parameter="5"/>
       </Processor>
       <Processor id="15191" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="15192" name="Dialogue1" active="yes" user-latency="0" own-input="yes" own-output="no" output="Dialogue1" type="main-outs" role="Main">

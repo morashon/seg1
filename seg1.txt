@@ -192,7 +192,9 @@ A lonely guy
 A lonely star was passing by
 Starlite was touching you & I
 
-_We told the Moon, be still
+{nudge=2.5}
+_NOACTOR:
+We told the Moon, be still
 And light our way
 We told the Earth to stop
 And hold the day
@@ -200,9 +202,13 @@ We told the Sun to stay away
 We told him Starlite was OK
 
 {time=412.5}
+
+{hold=25}
 _Something is strange
 Something has changed
 Starlite has turned to day
+
+{time=439}
 
 We see Annai, a young woman, sipping a drink at the bar. Thisone is two stools down.  They make eye contact.
 
@@ -220,7 +226,10 @@ _Annai: That's right, you don't.  We don't know anything.
 
 _Thisone: Here.
 
+{nudge=2}
 _Annai: Here, (waving hands) anywhere.
+
+{time=461}
 
 _Thisone: Then why do we bother?
 
@@ -232,14 +241,20 @@ _Thisone: I don't know -- you must have a life.
 
 _Annai: I must?
 
+{nudge=2}
 _Thisone: Why do you answer everything with a question?
+
+{time=475}
 
 _Annai: I don't.  (plays back her own voice saying: "That's right, you don't.  We don't know anything.")  Don't you pay attention?
 
+{nudge=-2}
 _Thisone: Try to.  It's hard.
 
+{nudge=-2}
 _Annai: What's hard?
 
+{nudge=-1}
 _Thisone: Paying attention.  Sometimes it's hard to focus.
 
 _Annai: Huh.. Do you have ADHD?
@@ -249,6 +264,7 @@ _Thisone: Not diagnosed, but probably, yeah.
 _Annai: They have drugs for that sort of thing.  You should look into it.
 
 {time=498}
+
 _Thisone: Maybe I will.
 
 {time=505}
