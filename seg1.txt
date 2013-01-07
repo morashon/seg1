@@ -270,3 +270,137 @@ _Thisone: Maybe I will.
 
 {time=505}
 
+(music picks up tempo and fades into background)
+
+{time=515}
+
+_Annai: I like this song.  It's a bit sappy.
+
+_Thisone: Yes, quite a bit.  Interesting chord progression.
+
+_Annai: You like music, then.
+
+_Thisone: I like Some music.  I'm picky.
+
+_Annai: Morashon?
+
+_Thisone: More a -- what?
+
+_Annai: Ack.  You don't get out much.
+
+_Thisone: That's true.  I've been heads down for months.  Big project.
+
+_Annai: Let's go!
+
+(Grabs her coat and heads for the door)
+
+_Thisone: Go where?
+
+{time=539}
+{hold=6}
+_Annai: Come with.
+
+{time=548}
+{hold=25}
+Morashon is performing in a large venue. He has many heads and arms, plays multiple instruments, DJ's, and sings. His skin is a sickly greenish hue.
+
+{time=574}
+_Morashon:
+If you try to dance to this
+You may find things quite amiss
+You may find that things will change in time
+Turning sour the taste you thought was fine
+
+_NOACTOR:
+I can't tell you what you know
+I can't show you where to go
+I can't say what you will have to do
+I can't teach you how to best be you
+
+_If I say to think out loud
+Stars in trees and sunset cloud
+Will your brain begin to understand?
+Is it just the pair that makes the man?
+
+{nudge=-3}
+_Can you hear me talk to you?
+Can you tell me what to do?
+Can you let me go my merry way
+Nothing happens to disturb your day
+
+(Annai is transfixed -- light plays on her face)
+
+{nudge=-1}
+_If I let you dance to this
+You may find your only bliss
+You may realize that you're feeling fine
+Happy now, contented for all time
+
+_If I teach you you're OK
+Will you thank me every day?
+Pour a drink and toast it to my name
+Keep my memory alive in fame
+
+_Nothing can prepare you for
+What you'll see behind that door
+No my friend, I cannot take you there
+This is not a thing that two can share
+
+_If your mind can dance to this
+You might feel that hidden kiss
+Then you'll know how we all change in time
+Wind that blows in may just blow your mind
+
+{time=694}
+{hold=30}
+_Ooh, ooh, changing time
+Ooh, ooh, changing time
+
+{time=741}
+_Thisone: (over the music) So what is this? A DJ? A group? Some band? Umm, what?
+
+{time=747.75}
+_Annai: What.
+
+{time=749.25}
+_Thisone: What?
+
+{time=750.75}
+_Annai: (playing back recording of Thisone's voice) "So what is this? A DJ? A group? Some band? Umm, what?"  What.  He's a what.
+
+_Thisone: Meaning?
+
+_Annai: AI.  Emergent neural.  Newest thing.  Programmers from Finland.
+
+_Thisone: You telling me this isn't someone's music?  It's not some guy with software or retro gear, uploading?
+
+_Annai: Nope. Code.
+
+_Thisone: Bullshit.
+
+{nudge=0.5}
+_Annai: Believe what you want.  Hit the site, it all checks out.  I reviewed the source.
+
+_Thisone: You code?
+
+_Annai: 'Course I do.
+
+_Thisone: I code too.
+
+{time=784}
+(pause as the music reaches crescendo)
+
+{time=784.5}
+_Annai: Of course.
+
+{time=786}
+_Thisone: Well I don't buy it.  I think it's a hoax.  No software package could come up with something like this.
+
+_Annai: Like you said, you've been offline.  Accelerondo.  You blink, you miss.
+
+_Thisone: Yes, but this?  Last I checked, they were just cracking contextual NLP.  No one had shown an integrated personality worth a shit.
+
+_Annai: Emergent, self-modifying code; exponential hockey stick.  Let's dance!
+
+{time=815}
+
