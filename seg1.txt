@@ -222,6 +222,7 @@ _Annai: How would you know?
 
 _Thisone: I don't.
 
+{nudge=1}
 _Annai: That's right, you don't.  We don't know anything.
 
 _Thisone: Here.
