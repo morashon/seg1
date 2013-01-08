@@ -1,10 +1,13 @@
-Morashon: The Open Source Musical. Indeed! say something here
+Morashon: The Open Source Musical!
 
-{time=5}
+{time=3}
 
-{hold=25}
-Scene: Starlite Lounge, a piano bar.
-spotlight comes up on piano player -- typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking midi setup doing drums, strings etc; he plays a shiny black baby grand. Intro to "Starlite" is played with much fanfare. More lights come up slowly, revealing three people at the bar -- an older woman in a provocative dress, a poorly dressed drunk, and our protagonist, Thisone.
+{hold=20}
+Scene: Starlite Lounge, a piano bar.  We are in a virtual world -- the scene and characters are well rendered but clearly not real.
+
+{time=9}
+{hold=20}
+A spotlight comes up on the Pianoman -- a typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking midi setup doing drums, strings etc; he plays a shiny black baby grand. Intro to "Starlite" is played with much fanfare. More lights come up slowly, revealing three people at the bar -- an older woman in a provocative dress, a poorly dressed drunk, and our protagonist, Thisone.
 
 {time=14.5}
 
@@ -38,7 +41,7 @@ Let me enumerate the ways... and means...
 _Pianoman:
 Let's not forget the soap!
 
-Pause... All lights fade as a spot comes up on Thisone at the bar, twirling a stick in his drink. Music segues again
+All lights fade as a spot comes up on Thisone at the bar, twirling a stick in his drink. Music segues again
 
 {time=85}
 
@@ -46,7 +49,7 @@ _Pianoman: And now, for something completely different -- and yet strangely fami
 
 {time=104}
 
-(Thisone sings)
+Song: "Prisoner"
 
 _Thisone:
 When I
@@ -103,9 +106,6 @@ I used to feel oh so free
 Now there's a prisoner in me
 
 {time=200}
-
-visuals?
-
 _
 My life
 Keeps moving
@@ -155,7 +155,7 @@ _
 {time=275}
 
 
-{hold=25}
+{hold=15}
 _
 Man: The only way you could succeed 
 was by failing.
@@ -164,25 +164,35 @@ Man: The only way you could succeed
 was by failing.
 Woman: Really?
 
+{time=292}
+_
+Man: Protection
+Other: NO!
+Man: Protection
+Woman: Really?
+
 {nudge=-6}
 Fade out.
 
 {time=306}
 
-{time=314}
-
+{time=311}
+{hold=15}
 3 YEARS EARLIER
 
 {time=322}
 
-{hold=17}
+{hold=30}
 Scene: Starlite Lounge.  Same piano guy (with a bit more hair), playing the same intro. As the piano lead-in finishes, a small, green, ogre-like creature about three feet tall climbs out from under the piano, picks up a cordless mike, clambers up onto the piano, and begins to sing. His voice is improbable.
 
 {time=336}
 
-_Pianoman: Hello again my Starlite friends. Here to serenade you, I present our little green Singing Machine. His grammar may be questionable, his hygiene debatable; his ego is quite inflatable, and yet his spirit soars, unabated.
+_Pianoman: Hello again my Starlite friends. Here to serenade you, I present our little green Singing Machine. 
+His grammar may be questionable, his hygiene debatable; his ego is quite inflatable, and yet his spirit soars, unabated.
 
 {time=360}
+
+Song: "Starlite"
 
 _Ogre:
 It was a starry night
@@ -234,8 +244,6 @@ _Annai: Here, (waving hands) anywhere.
 
 _Thisone: Then why do we bother?
 
-(pause)
-
 _Annai: What else is there?  To do, I mean.
 
 _Thisone: I don't know -- you must have a life.
@@ -280,7 +288,7 @@ _Thisone: Yes, quite a bit.  Interesting chord progression.
 
 _Annai: You like music, then.
 
-_Thisone: I like Some music.  I'm picky.
+_Thisone: I like some music.  I'm picky.
 
 _Annai: Morashon?
 
@@ -302,9 +310,14 @@ _Annai: Come with.
 
 {time=548}
 {hold=25}
-Morashon is performing in a large venue. He has many heads and arms, plays multiple instruments, DJ's, and sings. His skin is a sickly greenish hue.
+We see Thisone and Annai at a rave-like show in a large venue.  Morashon is on the stage; he has many heads and arms, plays multiple instruments, DJ's, and sings. His skin is a sickly greenish hue.  Music starts with a staccato beat.
+
+{time=568}
+
+Song: "Changing Time"
 
 {time=574}
+
 _Morashon:
 If you try to dance to this
 You may find things quite amiss
@@ -325,7 +338,7 @@ Is it just the pair that makes the man?
 {nudge=-3}
 _Can you hear me talk to you?
 Can you tell me what to do?
-Can you let me go my merry way
+Can you let me go my merry way?
 Nothing happens to disturb your day
 
 (Annai is transfixed -- light plays on her face)
@@ -346,6 +359,14 @@ What you'll see behind that door
 No my friend, I cannot take you there
 This is not a thing that two can share
 
+{time=678.5}
+
+BPM = 151
+
+{nudge=6.5}
+{hold=6}
+BPM = 113
+
 _If your mind can dance to this
 You might feel that hidden kiss
 Then you'll know how we all change in time
@@ -357,7 +378,7 @@ _Ooh, ooh, changing time
 Ooh, ooh, changing time
 
 {time=741}
-_Thisone: (over the music) So what is this? A DJ? A group? Some band? Umm, what?
+_Thisone: So what is this? A DJ? A group? Some band? Umm, what?
 
 {time=747.75}
 _Annai: What.
@@ -368,9 +389,10 @@ _Thisone: What?
 {time=750.75}
 _Annai: (playing back recording of Thisone's voice) "So what is this? A DJ? A group? Some band? Umm, what?"  
 
-_
-What.  He's a what.
+{nudge=-2.5}
+_What.  He's a what.
 
+{nudge=-.5}
 _Thisone: Meaning?
 
 _Annai: AI.  Emergent neural.  Newest thing.  Programmers from Finland.
@@ -406,13 +428,16 @@ _Annai: Emergent, self-modifying code; exponential hockey stick.  Let's dance!
 
 {time=815}
 
+{nudge=-3}
+Music has shifted to a danceable beat. They dance.  
+
+{nudge=4}
 {hold=12}
-Music has shifted to a danceable beat. They dance.
-After the song, Annai leads Thisone to a VIP section.  A burly bouncer recognizes her, nods as he pulls back the velvet rope.  A horde of avatars crushes in, trying to enter.  The bouncer gives them the eye; no one else passes.  The bouncer has some sort of force gizmo that keeps them from getting too close to the door.
+Suddenly, Annai grabs Thisone by the hand and leads him to a VIP area.  A burly bouncer recognizes her, nods as he pulls back the velvet rope.  A horde of avatars mills about, hoping to enter.  The bouncer gives them the eye; no one else passes.  The bouncer has some sort of force gizmo that keeps them from getting too close to the door.
 
-{time=827}
-
-Fancy dressers in the VIP lounge, smoking cigarettes with long holders, hookahs; some make out, some sip drinks.  Some are dancing to their own music.
+{time=830}
+{hold=12}
+Annai and Thisone pass through into the VIP area. We see fancy dressers, smoking cigarettes with long holders, hookahs; some make out, some sip drinks.  Some are dancing to their own music.
 
 {time=839.5}
 _Thisone: Where are we going?
@@ -429,18 +454,16 @@ _Annai: Lots to think about, friend.  Got a name?
 
 _Thisone: Thisone. (he pronounces it "Tee-sewn") Spelled like, "this one".
 
-(she does a polite curtsy, offers her hand.  He kisses it, awkwardly)
-
 {time=859.5}
 {hold=10}
-_Annai: Annai.   
+_Annai: Annai. (she does a polite curtsy, offers her hand.  He kisses it, awkwardly)
 
-{time=864}
-{hold=10}
-They come to another curtain, this one watched over by a severe-looking woman in a dominatrix outfit.  No one is bothering her to come through; people wait around nervously, hoping to catch her eye.  Annai waits patiently, until the dominatrix flicks her a barely perceptible nod.  She pulls Thisone through the curtain.
+{time=862}
+{hold=20}
+They come to a curtain, watched over by a severe-looking woman in a dominatrix outfit.  No one is bothering her to come through; people wait around nervously, hoping to catch her eye.  Annai waits patiently, until the dominatrix flicks her a barely perceptible nod.  She pulls Thisone through the curtain.
 Morashon is holding court.  His hands hold drinks, cigarettes, weapons.  He is carrying on multiple conversations with different heads.  One of his heads extends on a prehensile neck towards Annai.
 
-{time=876}
+{time=875}
 {nudge=-2}
 _Morashon: Annai, Annai, my life, my love!  How divine of you to come.  You are fetching as always!
 
@@ -488,11 +511,11 @@ Annai disappears (goes offline)
 
 _Thisone: That was a bit rude.
 
-_Morashon: She's still learning, my friend.
+_Morashon: She's still learning.
 
 _Thisone: Learning what?
 
-{time=996.5}
+{time=997}
 _Morashon: We all have something to learn, my friend.  Excuse me, there's an old acquaintance I can no longer avoid.
 
 _Thisone: (muttering to himself) Couldn't be that old.  I thought he just came online.
@@ -525,12 +548,10 @@ _Dominatrix: I just work the door.
 Thisone leaves.
 
 {time=1037}
-{hold=5}
 _Dominatrix: Fucking wethead.
 
-Scene: Morashon's place.  Looks like an opium den
-
-A dozen or so hanging around, sitting on folded legs or lotus-style on pillows.  Incense burns.  Thisone teleports in
+{time=1044}
+Scene: Morashon's salon; it looks like a virtual opium den.  A dozen or so avatars are hanging around, sitting on folded legs or lotus-style on pillows.  Incense burns.  Thisone teleports in.
 
 {time=1051}
 _Morashon: Thisone!  Delightful.  We were just about to begin.
@@ -541,7 +562,10 @@ _Morashon: Nevermind.  We just talk here.  Sometimes I work on my music.  Wil
 
 Thisone sits down among the rough circle.  He tries to catch Annai's eye, but she is raptly studying Morashon.
 
-Morashon's body is as before, but his skin tone is now chrome.  He begins to sing. As various of Morashon's heads sing each verse, his hands reach into each spectator, removing a visual representation of their soul, and placing it inside himself.  By the end of the song, the avatars of the audience appear dead and lifeless; Morashon's chrome body glows with the fire of the collected souls.
+{nudge=-3}
+{hold=25}
+Song: "Give It All (To Me)"
+Morashon's body is as before, but his skin tone is now chrome.  He begins to sing. As various of Morashon's heads sing each verse, his hands reach into each spectator, removing a visual representation of their soul, and placing it inside himself.  By the end of the song, the avatars of the audience appear dead and lifeless; Morashon's chrome body glows with the fire of the collected souls.  He simultaneously accompanies himself on piano.
 
 {time=1071}
 _Morashon:
@@ -594,7 +618,7 @@ Helps to make me whole
 _Give it all to me
 Everything inside
 All will be revealed
-When
+When...
 There's nothing left to hide
 
 {time=1314}
