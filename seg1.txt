@@ -13,7 +13,8 @@ A spotlight comes up on the Pianoman -- a typical bar lounge guy, rings on finge
 
 _Pianoman: Welcome, my friends, to the Starlite lounge -- where music is magic, and magic surrounds us every day. 
 
-_This evening I bring you a cougar, past her prime; a lifelong alcoholic; and a young man deep in contemplation of his place in the Universe. 
+_NOACTOR:
+This evening I bring you a cougar, past her prime; a lifelong alcoholic; and a young man deep in contemplation of his place in the Universe. 
 
 {time=41}
 
@@ -22,30 +23,33 @@ A perfect setting for the magic of music, which is, as I have said (and now I re
 
 {time=57}
 
-_Pianoman:
+Pianoman speaks in different voices.
+
+_
 Morashon... oy, what a cad. Anyone remember that getup? 
 
-_Pianoman (in Morashon's voice):
+_
 Everyone is king for a day -- or is it 15 milliseconds? 
 
 {time=72}
 
-_Pianoman (in a woman's voice):
+_
 Shall I compare thee to your previous release? 
 
 {nudge=-1.5}
-_(unknown voice):
+_
 Let me enumerate the ways... and means... 
 
 {nudge=-4}
-_Pianoman:
+_
 Let's not forget the soap!
 
 All lights fade as a spot comes up on Thisone at the bar, twirling a stick in his drink. Music segues again
 
 {time=85}
 
-_Pianoman: And now, for something completely different -- and yet strangely familiar. Observe, the old standby, when you get right down to it, everybody has one -- or knows somebody who keeps one in their pocket. I present to you, the evergreen perennial -- a Broken Heart.
+_
+And now, for something completely different -- and yet strangely familiar. Observe, the old standby, when you get right down to it, everybody has one -- or knows somebody who keeps one in their pocket. I present to you, the evergreen perennial -- a Broken Heart.
 
 {time=104}
 
@@ -565,7 +569,8 @@ _Morashon: Nevermind.  We just talk here.  Sometimes I work on my music.  Wil
 {nudge=-3}
 {hold=25}
 Song: "Give It All (To Me)"
-Morashon's body is as before, but his skin tone is now chrome.  He begins to sing. As various of Morashon's heads sing each verse, his hands reach into each spectator, removing a visual representation of their soul, and placing it inside himself.  By the end of the song, the avatars of the audience appear dead and lifeless; Morashon's chrome body glows with the fire of the collected souls.  He accompanies himself on piano.
+Morashon's body is as before, but his skin tone is now chrome.  He begins to sing. As various of Morashon's heads sing each verse, his hands reach into each spectator, removing a visual representation of their soul, and placing it inside himself.  By the end of the song, the avatars of the audience appear dead and lifeless; Morashon's chrome body glows with the fire of the collected souls.  
+He accompanies himself on piano.
 
 {time=1071}
 _Morashon:
