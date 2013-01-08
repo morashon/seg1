@@ -23,10 +23,11 @@ A perfect setting for the magic of music, which is, as I have said (and now I re
 
 {time=57}
 
-Pianoman speaks in different voices.
-
 _
 Morashon... oy, what a cad. Anyone remember that getup? 
+
+{nudge=-2}
+(Pianoman speaks in different voices)
 
 _
 Everyone is king for a day -- or is it 15 milliseconds? 
@@ -48,7 +49,7 @@ All lights fade as a spot comes up on Thisone at the bar, twirling a stick in hi
 
 {time=85}
 
-_
+_Pianoman:
 And now, for something completely different -- and yet strangely familiar. Observe, the old standby, when you get right down to it, everybody has one -- or knows somebody who keeps one in their pocket. I present to you, the evergreen perennial -- a Broken Heart.
 
 {time=104}
