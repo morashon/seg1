@@ -366,7 +366,10 @@ _Annai: What.
 _Thisone: What?
 
 {time=750.75}
-_Annai: (playing back recording of Thisone's voice) "So what is this? A DJ? A group? Some band? Umm, what?"  What.  He's a what.
+_Annai: (playing back recording of Thisone's voice) "So what is this? A DJ? A group? Some band? Umm, what?"  
+
+_
+What.  He's a what.
 
 _Thisone: Meaning?
 
@@ -374,6 +377,7 @@ _Annai: AI.  Emergent neural.  Newest thing.  Programmers from Finland.
 
 _Thisone: You telling me this isn't someone's music?  It's not some guy with software or retro gear, uploading?
 
+{nudge=-1}
 _Annai: Nope. Code.
 
 _Thisone: Bullshit.
@@ -387,20 +391,203 @@ _Annai: 'Course I do.
 
 _Thisone: I code too.
 
-{time=784}
-(pause as the music reaches crescendo)
-
 {time=784.5}
 _Annai: Of course.
 
 {time=786}
-_Thisone: Well I don't buy it.  I think it's a hoax.  No software package could come up with something like this.
+_Thisone: Well, I don't buy it.  I think it's a hoax.  No software package could come up with something like this.
 
 _Annai: Like you said, you've been offline.  Accelerondo.  You blink, you miss.
 
-_Thisone: Yes, but this?  Last I checked, they were just cracking contextual NLP.  No one had shown an integrated personality worth a shit.
+_Thisone: Yes, but this?  Last I checked, they were just cracking contextual NLP.  No one has shown an integrated personality worth a shit.
 
+{hold=10}
 _Annai: Emergent, self-modifying code; exponential hockey stick.  Let's dance!
 
 {time=815}
+
+{hold=12}
+Music has shifted to a danceable beat. They dance.
+After the song, Annai leads Thisone to a VIP section.  A burly bouncer recognizes her, nods as he pulls back the velvet rope.  A horde of avatars crushes in, trying to enter.  The bouncer gives them the eye; no one else passes.  The bouncer has some sort of force gizmo that keeps them from getting too close to the door.
+
+{time=827}
+
+Fancy dressers in the VIP lounge, smoking cigarettes with long holders, hookahs; some make out, some sip drinks.  Some are dancing to their own music.
+
+{time=839.5}
+_Thisone: Where are we going?
+
+_Annai: Meet the man.
+
+_Thisone: I thought you said he was an it.
+
+_Annai: Yes, but 'it' likes to be called a 'he'.  It's his choice, right?
+
+_Thisone: OK... I guess I've never thought about it.
+
+_Annai: Lots to think about, friend.  Got a name?
+
+_Thisone: Thisone. (he pronounces it "Tee-sewn") Spelled like, "this one".
+
+(she does a polite curtsy, offers her hand.  He kisses it, awkwardly)
+
+{time=859.5}
+{hold=10}
+_Annai: Annai.   
+
+{time=864}
+{hold=10}
+They come to another curtain, this one watched over by a severe-looking woman in a dominatrix outfit.  No one is bothering her to come through; people wait around nervously, hoping to catch her eye.  Annai waits patiently, until the dominatrix flicks her a barely perceptible nod.  She pulls Thisone through the curtain.
+Morashon is holding court.  His hands hold drinks, cigarettes, weapons.  He is carrying on multiple conversations with different heads.  One of his heads extends on a prehensile neck towards Annai.
+
+{time=876}
+{nudge=-2}
+_Morashon: Annai, Annai, my life, my love!  How divine of you to come.  You are fetching as always!
+
+_Annai: Same old, same old.  Haven't tooled my av in ages.  This is Thisone.
+
+_Thisone: (shakes a hand) spelled "this one".
+
+_Morashon: This one?  Or that one?  Which one is it?  Hehehe.  What a name.  What's in a name?  What are you, friend or foe?
+
+_Thisone: Just a fan, I guess.  A new one.  I like your music.
+
+_Morashon: He likes the music!  Wonderful.  Delightful.  Meaningful!  Insightful, so they say.  I refuse to read my own press.  It's all nonsense.  Right, Annai?
+
+_Annai: I suppose.  Thisone doesn't believe in you.
+
+_Morashon: Doesn't believe!  That's rich.  But here I am.  Seeing is believing, isn't that what they always say?
+
+_Thisone: I just said I was skeptical that you were code.  Whatever or whomever you are, I quite like what you do.
+
+_Morashon: Ahh...  Whomever, indeed.  Good grammar is so rare these days.
+
+_Thisone: No offense...  It just seems likely that you are the result of a few talented people writing music, and hacking up a cool avatar.  You could be controlled by three or four people with custom sensors.
+
+{nudge=-3}
+_Morashon: Ahh...  Indeed, indeed.  That I could.  How would we differentiate?  Do you favor epistemology or ontology?  That is the real debate.  If a musician plays an achingly touching melody, alone in a forest, is it still beautiful?
+
+{nudge=-2}
+_Thisone: Well, yes, I think so.
+
+{nudge=-1}
+_Morashon: Good answer, good answer!  Annai, I like.  I think he's good material.
+
+{nudge=-1}
+_Thisone: what?
+
+(Annai chuckles)
+
+_Morashon: Thisone, please meet us later.  It's so -- public here.  There's so much more to discuss.
+
+_Thisone: well, sure, I guess.
+
+_Annai: Here's the coords. (IM's a URL)
+
+Annai disappears (goes offline)
+
+_Thisone: That was a bit rude.
+
+_Morashon: She's still learning, my friend.
+
+_Thisone: Learning what?
+
+{time=996.5}
+_Morashon: We all have something to learn, my friend.  Excuse me, there's an old acquaintance I can no longer avoid.
+
+_Thisone: (muttering to himself) Couldn't be that old.  I thought he just came online.
+
+Thisone wanders towards the curtain
+
+_Dominatrix: No re-entry.
+
+_Thisone: That's ok.  I've had enough of this scene.
+
+_Dominatrix: So you say.
+
+_Thisone: That Morashon fellow, is it true he's an AI?
+
+_Dominatrix: Whatever.  I just work the door.
+
+_Thisone: Oh, you're a bot too.
+
+_Dominatrix: Whatever.  I just work the door.
+
+_Thisone: That's more like what I'm used to.
+
+_Dominatrix: Whatever.
+
+_Thisone: Right, you just work the door.
+
+_Dominatrix: I just work the door.
+
+Thisone leaves.
+
+_Dominatrix: Fucking wethead.
+
+Scene: Morashon's place.  Looks like an opium den
+
+A dozen or so hanging around, sitting on folded legs or lotus-style on pillows.  Incense burns.  Thisone teleports in
+
+_Morashon: Thisone!  Delightful.  We were just about to begin.
+
+_Thisone:  Annai didn't tell me anything, I just
+
+_Morashon: Nevermind.  We just talk here.  Sometimes I work on my music.  Willing subjects help me tune my parameters.  It's all parameterized, these days.  Please make yourself comfortable.
+
+Thisone sits down among the rough circle.  He tries to catch Annai's eye, but she is raptly studying Morashon.
+
+Morashon's body is as before, but his skin tone is now chrome.  He begins to sing. As various of Morashon's heads sing each verse, his hands reach into each spectator, removing a visual representation of their soul, and placing it inside himself.  By the end of the song, the avatars of the audience appear dead and lifeless; Morashon's chrome body glows with the fire of the collected souls.
+
+_Morashon:
+Give it all to me
+Let it all go free
+Give me all your dreams
+You're bursting at the seams
+
+_NOACTOR:
+Give it all to me
+Everything you are
+Let me be your guide
+I'll be your shining star
+
+_I gave you hope
+I gave you love
+I gave you life
+I gave you pride
+
+_I gave you strength
+To carry on
+Give me one
+Reason why
+
+_Give it all to me
+Everything you see
+Give me what's inside
+So I can feel alive
+
+_Show me now
+What it's for
+What's at stake
+What's the point
+
+_I gave you more
+Than you deserve
+Give me back
+What you stole
+
+_Give it all to me
+Pieces of your soul
+Every little thing
+Helps to make me whole
+
+_Give it all to me
+Everything inside
+All will be revealed
+When
+There's nothing left to hide
+
+As the song ends, Thisone teleports away.
+
+{time=1500}
 
