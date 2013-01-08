@@ -160,7 +160,6 @@ _
 {time=275}
 
 
-{hold=15}
 _
 Man: The only way you could succeed 
 was by failing.
@@ -170,6 +169,7 @@ was by failing.
 Woman: Really?
 
 {time=292}
+{hold=15}
 _
 Man: Protection
 Other: NO!
@@ -177,7 +177,7 @@ Man: Protection
 Woman: Really?
 
 {nudge=-6}
-Fade out.
+Fade out
 
 {time=306}
 
@@ -192,8 +192,7 @@ Scene: Starlite Lounge.  Same piano guy (with a bit more hair), playing the same
 
 {time=336}
 
-_Pianoman: Hello again my Starlite friends. Here to serenade you, I present our little green Singing Machine. 
-His grammar may be questionable, his hygiene debatable; his ego is quite inflatable, and yet his spirit soars, unabated.
+_Pianoman: Hello again my Starlite friends. Here to serenade you, I present our little green Singing Machine. His grammar may be questionable, his hygiene debatable; his ego is quite inflatable, and yet his spirit soars, unabated.
 
 {time=360}
 
@@ -501,18 +500,19 @@ _Thisone: Well, yes, I think so.
 {nudge=-1}
 _Morashon: Good answer, good answer!  Annai, I like.  I think he's good material.
 
+(Annai chuckles)
+
 {nudge=-1}
 _Thisone: what?
-
-(Annai chuckles)
 
 _Morashon: Thisone, please meet us later.  It's so -- public here.  There's so much more to discuss.
 
 _Thisone: well, sure, I guess.
 
-_Annai: Here's the coords. (IM's a URL)
-
+{nudge=1}
 Annai disappears (goes offline)
+
+_Annai: Here's the coords. (IM's a URL)
 
 _Thisone: That was a bit rude.
 
@@ -553,14 +553,17 @@ _Dominatrix: I just work the door.
 Thisone leaves.
 
 {time=1037}
+{hold=6}
 _Dominatrix: Fucking wethead.
 
 {time=1044}
+{hold=12}
 Scene: Morashon's salon; it looks like a virtual opium den.  A dozen or so avatars are hanging around, sitting on folded legs or lotus-style on pillows.  Incense burns.  Thisone teleports in.
 
 {time=1051}
 _Morashon: Thisone!  Delightful.  We were just about to begin.
 
+{hold=15}
 Thisone sits down among the rough circle.  He tries to catch Annai's eye, but she is raptly studying Morashon.
 
 _Thisone:  Annai didn't tell me anything, I just
@@ -570,8 +573,7 @@ _Morashon: Nevermind.  We just talk here.  Sometimes I work on my music.  Wil
 {nudge=-3}
 {hold=25}
 Song: "Give It All (To Me)"
-Morashon's body is as before, but his skin tone is now chrome.  He begins to sing. As various of Morashon's heads sing each verse, his hands reach into each spectator, removing a visual representation of their soul, and placing it inside himself.  By the end of the song, the avatars of the audience appear dead and lifeless; Morashon's chrome body glows with the fire of the collected souls.  
-He accompanies himself on piano.
+Morashon's body is as before, but his skin tone is now chrome.  He begins to sing. He accompanies himself on piano.
 
 {time=1071}
 _Morashon:
@@ -579,6 +581,9 @@ Give it all to me
 Let it all go free
 Give me all your dreams
 You're bursting at the seams
+
+{hold=25}
+As various of Morashon's heads sing a section, his hands reach into each spectator, removing a visual representation of their soul, and placing it inside himself.
 
 _NOACTOR:
 Give it all to me
@@ -615,6 +620,9 @@ Than you deserve
 Give me back
 What you stole
 
+{hold=25}
+By the end of the song, the avatars in the circle appear dead and lifeless; Morashon's chrome body glows with the fire of the collected souls.  
+
 {time=1259}
 _Give it all to me
 Pieces of your soul
@@ -627,7 +635,8 @@ All will be revealed
 When...
 
 {time=1306}
-_There's nothing left to hide
+{hold=20}
+_There's nothing left to hide.
 
 {time=1314}
 
