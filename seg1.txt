@@ -500,6 +500,7 @@ _Thisone: Well, yes, I think so.
 {nudge=-1}
 _Morashon: Good answer, good answer!  Annai, I like.  I think he's good material.
 
+{hold=4}
 (Annai chuckles)
 
 {nudge=-1}
