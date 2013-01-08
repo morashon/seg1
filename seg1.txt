@@ -499,6 +499,7 @@ _Thisone: (muttering to himself) Couldn't be that old.  I thought he just came 
 
 Thisone wanders towards the curtain
 
+{time=1010}
 _Dominatrix: No re-entry.
 
 _Thisone: That's ok.  I've had enough of this scene.
@@ -523,12 +524,15 @@ _Dominatrix: I just work the door.
 
 Thisone leaves.
 
+{time=1037}
+{hold=5}
 _Dominatrix: Fucking wethead.
 
 Scene: Morashon's place.  Looks like an opium den
 
 A dozen or so hanging around, sitting on folded legs or lotus-style on pillows.  Incense burns.  Thisone teleports in
 
+{time=1051}
 _Morashon: Thisone!  Delightful.  We were just about to begin.
 
 _Thisone:  Annai didn't tell me anything, I just
@@ -539,6 +543,7 @@ Thisone sits down among the rough circle.  He tries to catch Annai's eye, but s
 
 Morashon's body is as before, but his skin tone is now chrome.  He begins to sing. As various of Morashon's heads sing each verse, his hands reach into each spectator, removing a visual representation of their soul, and placing it inside himself.  By the end of the song, the avatars of the audience appear dead and lifeless; Morashon's chrome body glows with the fire of the collected souls.
 
+{time=1071}
 _Morashon:
 Give it all to me
 Let it all go free
@@ -551,21 +556,25 @@ Everything you are
 Let me be your guide
 I'll be your shining star
 
+{time=1125}
 _I gave you hope
 I gave you love
 I gave you life
 I gave you pride
 
+{nudge=-1}
 _I gave you strength
 To carry on
 Give me one
 Reason why
 
+{time=1179}
 _Give it all to me
 Everything you see
 Give me what's inside
 So I can feel alive
 
+{time=1206}
 _Show me now
 What it's for
 What's at stake
@@ -576,6 +585,7 @@ Than you deserve
 Give me back
 What you stole
 
+{time=1259}
 _Give it all to me
 Pieces of your soul
 Every little thing
@@ -587,7 +597,11 @@ All will be revealed
 When
 There's nothing left to hide
 
-As the song ends, Thisone teleports away.
+{time=1314}
 
-{time=1500}
+{time=1380}
+
+As the song ends, Thisone teleports away.
+	
+{time=1392}
 
