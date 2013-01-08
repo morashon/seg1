@@ -556,11 +556,11 @@ Scene: Morashon's salon; it looks like a virtual opium den.  A dozen or so avata
 {time=1051}
 _Morashon: Thisone!  Delightful.  We were just about to begin.
 
+Thisone sits down among the rough circle.  He tries to catch Annai's eye, but she is raptly studying Morashon.
+
 _Thisone:  Annai didn't tell me anything, I just
 
 _Morashon: Nevermind.  We just talk here.  Sometimes I work on my music.  Willing subjects help me tune my parameters.  It's all parameterized, these days.  Please make yourself comfortable.
-
-Thisone sits down among the rough circle.  He tries to catch Annai's eye, but she is raptly studying Morashon.
 
 {nudge=-3}
 {hold=25}
@@ -619,7 +619,9 @@ _Give it all to me
 Everything inside
 All will be revealed
 When...
-There's nothing left to hide
+
+{time=1306}
+_There's nothing left to hide
 
 {time=1314}
 
