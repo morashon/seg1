@@ -8,9 +8,6 @@
       <Track channel1="off" channel2="off"/>
     </Tracks>
   </ExportDialog>
-  <Mixer narrow-strips="no" show-mixer="yes">
-    <geometry x-size="711" y-size="842" x-pos="870" y-pos="86" x-off="0" y-off="0" mixer-rhs-pane1-pos="277" mixer-list-hpane-pos="75"/>
-  </Mixer>
   <ExportRevision revision="1"/>
   <ExportProfile>
     <ExportTimespan format="Timecode">
@@ -41,8 +38,12 @@
       <Release/>
     </Buttons>
     <Selection>
+      <RouteView id="2017"/>
       <Marker id="14192" start="no"/>
     </Selection>
     <RegionList sort-type="ByEndInFile" sort-ascending="yes" show-all="no" show-automatic-regions="yes"/>
   </Editor>
+  <Mixer narrow-strips="no" show-mixer="yes">
+    <geometry x-size="711" y-size="842" x-pos="870" y-pos="86" x-off="0" y-off="0" mixer-rhs-pane1-pos="277" mixer-list-hpane-pos="75"/>
+  </Mixer>
 </instant>

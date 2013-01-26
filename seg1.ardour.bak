@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3001" name="seg1" sample-rate="44100" id-counter="16968" event-counter="0">
+<Session version="3001" name="seg1" sample-rate="44100" id-counter="19588" event-counter="0">
   <Config>
     <Option name="xfade-choice" value="ConstantPowerMinus3dB"/>
     <Option name="destructive-xfade-msecs" value="2"/>
@@ -4204,8 +4204,8 @@
     </Region>
   </Regions>
   <Locations>
-    <Location id="14192" name="session" start="0" end="61475821" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
-    <Location id="54" name="Loop" start="0" end="61475821" flags="IsAutoLoop,IsHidden" locked="no" position-lock-style="AudioTime"/>
+    <Location id="14192" name="session" start="0" end="61654209" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+    <Location id="54" name="Loop" start="0" end="61654209" flags="IsAutoLoop,IsHidden" locked="no" position-lock-style="AudioTime"/>
     <Location id="55" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no" position-lock-style="AudioTime"/>
   </Locations>
   <Bundles/>
@@ -4355,7 +4355,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="15085" flags="GainLike" value="0.934243500233"/>
+        <Controllable name="gaincontrol" id="15085" flags="GainLike" value="0.071508079767"/>
       </Processor>
       <Processor id="15086" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="15087" name="Music1" active="yes" user-latency="0" own-input="yes" own-output="no" output="Music1" type="main-outs" role="Main">
@@ -4413,8 +4413,8 @@
 15449919 0.527540862560272
 15610717 0.489583790302277
 15796286 0.823917090892792
-15869059 1.12556874752045
-19071323 1.08498728275299
+15846346 0.88628101348877
+19094036 0.877216517925262
 19370215 0.527540862560272
 19574500 0.286486685276031
 19711826 0.215709358453751
@@ -4488,7 +4488,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="15147" flags="GainLike" value="1.320465922356"/>
+        <Controllable name="gaincontrol" id="15147" flags="GainLike" value="1.441133856773"/>
       </Processor>
       <Processor id="14047" name="GLAME Butterworth Highpass" active="yes" user-latency="0" type="ladspa" unique-id="1904" count="1">
         <Automation>
@@ -4497,7 +4497,7 @@
 20970586 600.588795986798
 21119494 614.889687915966
 21128680 4.40999984741211
-32805188 4137.8662498792
+31987532 4.41009839668733
 32805189 4.40999984741211
 33066582 4.40999984741211
 33084302 614.889687915966
@@ -4696,7 +4696,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="15190" flags="GainLike" value="1.180368661880"/>
+        <Controllable name="gaincontrol" id="15190" flags="GainLike" value="0.981011867523"/>
       </Processor>
       <Processor id="1269" name="C* Plate2x2 - Versatile plate reverb, stereo inputs" active="yes" user-latency="0" type="ladspa" unique-id="1795" count="1">
         <Automation>
@@ -4841,12 +4841,12 @@
           <Port number="2" value="+0.399526"/>
           <Port number="3" value="+0.166015"/>
           <Port number="4" value="+0.255527"/>
-          <Port number="5" value="+0.250000"/>
+          <Port number="5" value="+0.280505"/>
         </ladspa>
         <Controllable name="bandwidth" id="15199" flags="" value="0.399526000023" parameter="2"/>
         <Controllable name="tail" id="15201" flags="" value="0.166014999151" parameter="3"/>
         <Controllable name="damping" id="15203" flags="" value="0.255526989698" parameter="4"/>
-        <Controllable name="blend" id="15205" flags="" value="0.250000000000" parameter="5"/>
+        <Controllable name="blend" id="15205" flags="" value="0.280504971743" parameter="5"/>
       </Processor>
       <Processor id="15191" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="15192" name="Dialogue1" active="yes" user-latency="0" own-input="yes" own-output="no" output="Dialogue1" type="main-outs" role="Main">
@@ -9231,7 +9231,7 @@
         <Object id="automation 15076" height="72" visible="0"/>
         <Object id="route 2017" color="47548:5310:36380"/>
         <Object id="rtav 2017" height="72" visible="1"/>
-        <Object id="automation 15116" height="359" visible="0"/>
+        <Object id="automation 15116" height="359" visible="1"/>
         <Object id="automation 15103" height="72" visible="0"/>
         <Object id="automation 15107" height="72" visible="0"/>
         <Object id="route 6735" color="43053:559:39889"/>
