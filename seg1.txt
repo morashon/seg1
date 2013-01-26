@@ -632,9 +632,6 @@ Than you deserve
 Give me back
 What you stole
 
-{hold=99}
-By the end of the song, the avatars in the circle appear dead and lifeless; Morashon's chrome body glows with the fire of the collected souls.  
-
 {time=1259}
 _Give it all to me
 Pieces of your soul
@@ -649,6 +646,9 @@ When...
 {time=1306}
 {hold=20}
 _There's nothing left to hide.
+
+{hold=99}
+By the end of the song, the avatars in the circle appear dead and lifeless; Morashon's chrome body glows with the fire of the collected souls.  
 
 {time=1314}
 
