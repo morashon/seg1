@@ -26,7 +26,7 @@ A perfect setting for the magic of music, which is, as I have said (and now I re
 _
 Morashon... oy, what a cad. Anyone remember that getup? 
 
-{nudge=-2}
+{nudge=-3}
 (Pianoman speaks in different voices)
 
 _
@@ -190,12 +190,13 @@ Fade out
 {hold=30}
 Scene: Starlite Lounge.  Same piano guy (with a bit more hair), playing the same intro. As the piano lead-in finishes, a small, green, ogre-like creature about three feet tall climbs out from under the piano, picks up a cordless mike, clambers up onto the piano, and begins to sing. His voice is improbable.
 
-{time=336}
+{time=338.2}
 
-_Pianoman: Hello again my Starlite friends. Here to serenade you, I present our little green Singing Machine. His grammar may be questionable, his hygiene debatable; his ego is quite inflatable, and yet his spirit soars, unabated.
+_Pianoman: Hello again, my Starlite friends. Here to serenade you, I present our little green singing machine. His grammar may be questionable, his hygiene debatable; his ego is quite inflatable, and yet his spirit soars, unabated.
 
 {time=360}
 
+{nudge=2}
 Song: "Starlite"
 
 _Ogre:
@@ -268,7 +269,7 @@ _Thisone: Try to.  It's hard.
 _Annai: What's hard?
 
 {nudge=-1}
-_Thisone: Paying attention.  Sometimes it's hard to focus.
+_Thisone: Paying attention.  Sometimes, it's hard to focus.
 
 _Annai: Huh.. Do you have ADHD?
 
@@ -328,6 +329,7 @@ You may find things quite amiss
 You may find that things will change in time
 Turning sour the taste you thought was fine
 
+{nudge=-2}
 _NOACTOR:
 I can't tell you what you know
 I can't show you where to go
@@ -481,12 +483,15 @@ _Thisone: Just a fan, I guess.  A new one.  I like your music.
 
 _Morashon: He likes the music!  Wonderful.  Delightful.  Meaningful!  Insightful, so they say.  I refuse to read my own press.  It's all nonsense.  Right, Annai?
 
+{nudge=.5}
 _Annai: I suppose.  Thisone doesn't believe in you.
 
-_Morashon: Doesn't believe!  That's rich.  But here I am.  Seeing is believing, isn't that what they always say?
+{nudge=1}
+_Morashon: Doesn't believe?  That's rich!  But here I am.  Seeing is believing, isn't that what they always say?
 
 _Thisone: I just said I was skeptical that you were code.  Whatever or whomever you are, I quite like what you do.
 
+{nudge=-1}
 _Morashon: Ahh...  Whomever, indeed.  Good grammar is so rare these days.
 
 _Thisone: No offense...  It just seems likely that you are the result of a few talented people writing music, and hacking up a cool avatar.  You could be controlled by three or four people with custom sensors.
@@ -494,10 +499,9 @@ _Thisone: No offense...  It just seems likely that you are the result of a few 
 {nudge=-3}
 _Morashon: Ahh...  Indeed, indeed.  That I could.  How would we differentiate?  Do you favor epistemology or ontology?  That is the real debate.  If a musician plays an achingly touching melody, alone in a forest, is it still beautiful?
 
-{nudge=-2}
+{time=970}
 _Thisone: Well, yes, I think so.
 
-{nudge=-1}
 _Morashon: Good answer, good answer!  Annai, I like.  I think he's good material.
 
 {hold=4}
@@ -508,13 +512,18 @@ _Thisone: what?
 
 _Morashon: Thisone, please meet us later.  It's so -- public here.  There's so much more to discuss.
 
+{nudge=-1}
 _Thisone: well, sure, I guess.
 
-{nudge=1}
+{nudge=-1}
+(Annai sends Thisone a text message with the time and location)
+
+{nudge=2}
 Annai disappears (goes offline)
 
-_Annai: Here's the coords. (IM's a URL)
+_Annai: Here's the coords. 
 
+{nudge=1}
 _Thisone: That was a bit rude.
 
 _Morashon: She's still learning.
@@ -524,11 +533,13 @@ _Thisone: Learning what?
 {time=997}
 _Morashon: We all have something to learn, my friend.  Excuse me, there's an old acquaintance I can no longer avoid.
 
-_Thisone: (muttering to himself) Couldn't be that old.  I thought he just came online.
-
 Thisone wanders towards the curtain
 
+{nudge=1.5}
+_Thisone: (muttering to himself) Couldn't be that old.  I thought he just came online.
+
 {time=1010}
+{nudge=-1}
 _Dominatrix: No re-entry.
 
 _Thisone: That's ok.  I've had enough of this scene.
@@ -621,7 +632,7 @@ Than you deserve
 Give me back
 What you stole
 
-{hold=25}
+{hold=99}
 By the end of the song, the avatars in the circle appear dead and lifeless; Morashon's chrome body glows with the fire of the collected souls.  
 
 {time=1259}
