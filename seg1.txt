@@ -656,5 +656,5 @@ By the end of the song, the avatars in the circle appear dead and lifeless; Mora
 
 As the song ends, Thisone teleports away.
 	
-{time=1392}
+{time=1397}
 
