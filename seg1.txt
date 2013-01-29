@@ -1,7 +1,7 @@
 {hold=20}
 Scene: Starlite Lounge, a piano bar.  We are in a virtual world -- the scene and characters are well rendered but clearly not real.
 
-{time=9}
+{time=4.5}
 {hold=20}
 A spotlight comes up on the Pianoman -- a typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking midi setup doing drums, strings etc; he plays a shiny black baby grand. Intro to "Starlite" is played with much fanfare. More lights come up slowly, revealing three people at the bar -- an older woman in a provocative dress, a poorly dressed drunk, and our protagonist, Thisone.
 
@@ -9,11 +9,11 @@ A spotlight comes up on the Pianoman -- a typical bar lounge guy, rings on finge
 
 _Pianoman: Welcome, my friends, to the Starlite lounge -- where music is magic, and magic surrounds us every day. 
 
+{time=27.5}
 _NOACTOR:
 This evening I bring you a cougar, past her prime; a lifelong alcoholic; and a young man deep in contemplation of his place in the Universe. 
 
-{time=41}
-
+{time=39.5}
 _
 A perfect setting for the magic of music, which is, as I have said (and now I repeat, in case you weren't listening:) simply Starlite!
 
