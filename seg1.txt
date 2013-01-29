@@ -1,7 +1,3 @@
-Morashon: The Open Source Musical!
-
-{time=3}
-
 {hold=20}
 Scene: Starlite Lounge, a piano bar.  We are in a virtual world -- the scene and characters are well rendered but clearly not real.
 
