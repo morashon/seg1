@@ -311,7 +311,7 @@ _Annai: Come with.
 
 {time=548}
 {hold=25}
-We see Thisone and Annai at a rave-like show in a large venue.  Morashon is on the stage; he has many heads and arms, plays multiple instruments, DJ's, and sings. His skin is a sickly greenish hue.  Music starts with a staccato beat.
+We see Thisone and Annai at a rave-like show in a large venue. Big crowd. Morashon is on the stage; he has many heads and arms, plays multiple instruments, DJ's, and sings. His skin is a sickly greenish hue.  Music starts with a staccato beat.
 
 {time=568}
 

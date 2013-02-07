@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3001" name="seg1" sample-rate="44100" id-counter="19588" event-counter="0">
+<Session version="3001" name="seg1" sample-rate="44100" id-counter="20855" event-counter="0">
   <Config>
     <Option name="xfade-choice" value="ConstantPowerMinus3dB"/>
     <Option name="destructive-xfade-msecs" value="2"/>
@@ -15,7 +15,7 @@
     <Option name="subframes-per-frame" value="100"/>
     <Option name="timecode-format" value="timecode_30"/>
     <Option name="raid-path" value=""/>
-    <Option name="audio-search-path" value="/home/dbm/bench/morashon/mix/seg1/interchange/seg1/audiofiles"/>
+    <Option name="audio-search-path" value=""/>
     <Option name="midi-search-path" value=""/>
     <Option name="jack-time-master" value="1"/>
     <Option name="use-video-sync" value="0"/>
@@ -4213,16 +4213,16 @@
     <Route id="18" name="master" default-type="audio" flags="MasterOut" active="yes" phase-invert="00" denormal-protection="no" meter-point="MeterPostFader" order-keys="EditorSort=0:MixerSort=0" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0" solo-isolated="no" solo-safe="no">
       <IO name="master" id="18" direction="Input" default-type="audio" user-latency="0">
         <Port type="audio" name="master/audio_in 1">
-          <Connection other="Music1/audio_out 1"/>
-          <Connection other="Music2/audio_out 1"/>
-          <Connection other="Dialogue2/audio_out 1"/>
           <Connection other="Dialogue1/audio_out 1"/>
+          <Connection other="Dialogue2/audio_out 1"/>
+          <Connection other="Music2/audio_out 1"/>
+          <Connection other="Music1/audio_out 1"/>
         </Port>
         <Port type="audio" name="master/audio_in 2">
-          <Connection other="Music1/audio_out 2"/>
-          <Connection other="Music2/audio_out 2"/>
-          <Connection other="Dialogue2/audio_out 2"/>
           <Connection other="Dialogue1/audio_out 2"/>
+          <Connection other="Dialogue2/audio_out 2"/>
+          <Connection other="Music2/audio_out 2"/>
+          <Connection other="Music1/audio_out 2"/>
         </Port>
       </IO>
       <IO name="master" id="18" direction="Output" default-type="audio" user-latency="0">
@@ -4563,7 +4563,7 @@
       </Pannable>
       <Processor id="15188" name="Amp" active="yes" user-latency="0" type="amp">
         <Automation>
-          <AutomationList automation-id="gain" id="179" default="1.09515345097" min-yval="0" max-yval="2" interpolation-style="Linear" state="Touch" style="Absolute">
+          <AutomationList automation-id="gain" id="179" default="1.09515345097" min-yval="0" max-yval="2" interpolation-style="Linear" state="Play" style="Absolute">
             <events>877619 1.18036866188049
 955442 1.18036866188049
 955443 1.14109110832214
@@ -4700,7 +4700,7 @@
       </Processor>
       <Processor id="1269" name="C* Plate2x2 - Versatile plate reverb, stereo inputs" active="yes" user-latency="0" type="ladspa" unique-id="1795" count="1">
         <Automation>
-          <AutomationList automation-id="parameter-5" id="1280" default="0.25" min-yval="0" max-yval="1" interpolation-style="Linear" state="Touch" style="Absolute">
+          <AutomationList automation-id="parameter-5" id="1280" default="0.25" min-yval="0" max-yval="1" interpolation-style="Linear" state="Play" style="Absolute">
             <events>2343609 0.25
 2347705 0.25
 2351801 0.244845360517502
@@ -9231,19 +9231,19 @@
         <Object id="automation 15076" height="72" visible="0"/>
         <Object id="route 2017" color="47548:5310:36380"/>
         <Object id="rtav 2017" height="72" visible="1"/>
-        <Object id="automation 15116" height="359" visible="1"/>
+        <Object id="automation 15116" height="359" visible="0"/>
         <Object id="automation 15103" height="72" visible="0"/>
         <Object id="automation 15107" height="72" visible="0"/>
         <Object id="route 6735" color="43053:559:39889"/>
         <Object id="rtav 6735" height="72" visible="1"/>
         <Object id="automation 15147" height="72" visible="0"/>
-        <Object id="automation 15156" height="72" visible="1"/>
+        <Object id="automation 15156" height="72" visible="0"/>
         <Object id="automation 15134" height="72" visible="0"/>
         <Object id="automation 15138" height="72" visible="0"/>
         <Object id="route 177" color="12076:29933:35629"/>
         <Object id="rtav 177" height="72" visible="1"/>
         <Object id="automation 15190" height="72" visible="0"/>
-        <Object id="automation 15205" height="72" visible="1"/>
+        <Object id="automation 15205" height="72" visible="0"/>
         <Object id="automation 15177" height="72" visible="0"/>
         <Object id="automation 15181" height="72" visible="0"/>
         <Object id="strip 18" visible="1">
