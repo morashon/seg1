@@ -1,9 +1,62 @@
-{hold=20}
 Scene: Starlite Lounge, a piano bar.  We are in a virtual world -- the scene and characters are well rendered but clearly not real.
 
-{time=4.5}
+_NOACTOR:
+Countdown: 14
+
+{time=1}
+_
+Countdown: 13
+
+{time=2}
+_
+Countdown: 12
+
+{time=3}
+_
+Countdown: 11
+
+{time=4}
+_
+Countdown: 10
+
+{time=5}
+_
+Countdown: 9
+
+{time=6}
 {hold=20}
 A spotlight comes up on the Pianoman -- a typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking synth setup doing drums, strings etc; he plays a shiny black baby grand. Intro to "Starlite" is played with much fanfare. More lights come up slowly, revealing three people at the bar -- an older woman in a provocative dress, a poorly dressed drunk, and our protagonist, Thisone.
+
+_
+Countdown: 8
+
+{time=7}
+_
+Countdown: 7
+
+{time=8}
+_
+Countdown: 6
+
+{time=9}
+_
+Countdown: 5
+
+{time=10}
+_
+Countdown: 4
+
+{time=11}
+_
+Countdown: 3
+
+{time=12}
+_
+Countdown: 2
+
+{time=13}
+_
+Countdown: 1
 
 {time=14.5}
 
