@@ -24,7 +24,7 @@
     <ExportFormat id="c3174ecf-dd67-45b5-9ebe-2bdf6cab7a2d"/>
     <ExportFilename>
       <Folder relative="true" path="/export"/>
-      <Field name="label" enabled="true" value="seg1x"/>
+      <Field name="label" enabled="true" value="seg1c"/>
       <Field name="session" enabled="false"/>
       <Field name="revision" enabled="false"/>
       <Field name="time" enabled="false" value="T_None"/>
@@ -38,6 +38,7 @@
       <Release/>
     </Buttons>
     <Selection>
+      <RouteView id="2017"/>
       <Marker id="14192" start="no"/>
     </Selection>
     <RegionList sort-type="ByEndInFile" sort-ascending="yes" show-all="no" show-automatic-regions="yes"/>
