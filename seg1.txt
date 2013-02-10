@@ -522,7 +522,7 @@ Morashon is holding court.  His hands hold drinks, cigarettes, weapons.  He is
 {nudge=-2}
 _Morashon: Annai, Annai, my life, my love!  How divine of you to come.  You are fetching as always!
 
-_Annai: Same old, same old.  Haven't tooled my av in ages.  This is Thisone.
+_Annai: Same old, same old.  Haven't tuned my av in ages.  This is Thisone.
 
 _Thisone: (shakes a hand) spelled "this one".
 
