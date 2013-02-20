@@ -38,7 +38,6 @@
       <Release/>
     </Buttons>
     <Selection>
-      <RouteView id="2017"/>
       <Marker id="14192" start="no"/>
     </Selection>
     <RegionList sort-type="ByEndInFile" sort-ascending="yes" show-all="no" show-automatic-regions="yes"/>
