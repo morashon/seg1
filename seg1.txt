@@ -553,24 +553,21 @@ _Thisone: Well, yes, I think so.
 
 _Morashon: Good answer, good answer!  Annai, I like.  I think he's good material.
 
+{nudge=1.4}
 {hold=4}
 (Annai chuckles)
 
-{nudge=-1}
 _Thisone: what?
 
+{nudge=1.65}
 _Morashon: Thisone, please meet us later.  It's so -- public here.  There's so much more to discuss.
 
-{nudge=-1}
 _Thisone: well, sure, I guess.
 
-{nudge=-1}
 (Annai sends Thisone a text message with the time and location)
 
-{nudge=2}
-Annai disappears (goes offline)
-
-_Annai: Here's the coords. 
+{nudge=.5}
+_Annai: Here's the coords. (she suddenly disappears)
 
 {nudge=1}
 _Thisone: That was a bit rude.
