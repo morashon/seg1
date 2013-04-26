@@ -1,8 +1,8 @@
 {hold=20}
 Scene: Starlite Lounge, a piano bar.  We are in a virtual world -- the scene and characters are well rendered but clearly not real.
 
-{time=13}
-{hold=20}
+{time=12}
+{hold=28}
 A spotlight comes up on the Pianoman -- a typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking synth setup doing drums, strings etc; he plays a shiny black baby grand. Intro to "Starlite" is played with much fanfare. More lights come up slowly, revealing two people at the bar -- a man in his 30's, and a woman, younger.
 
 {time=40}
@@ -10,10 +10,12 @@ A spotlight comes up on the Pianoman -- a typical bar lounge guy, rings on finge
 _Pianoman: Welcome, my friends, to the Starlite lounge -- where music is magic, and magic surrounds us every day.
 
 {time=50.1}
+
 _NOACTOR:
 Here to serenade you, I present our little green singing machine. His grammar may be questionable, his hygiene debatable; his ego is quite inflatable, and yet his spirit soars, unabated.
 
-Song: "Starlite"
+{nudge=-4.5}
+A small, green, ogre-like creature about three feet tall climbs out from under the piano, picks up a cordless mike, clambers up onto the piano, and begins to sing. His voice is improbable.
 
 {time=67}
 _Ogre:
@@ -76,10 +78,12 @@ _Man: More a -- what?
 {time=210}
 _Woman: Ack.  You don't get out much.
 
+{hold=11}
 {time=217}
 _Woman: Let's go!
 
-{nudge=-5}
+{hold=17}
+{nudge=-8}
 While the Ogre sings the final verse of "Starlite", some of the instruments drop out, and the tempo is wrong. He appears flustered, waving at the piano player as he attempts to sing over the drums.  His voice goes strange.  Finally, he kicks a piece of equipment in frustration; his voice returns to normal, and the instruments return.
 
 {time=251.6}
@@ -99,6 +103,9 @@ _Woman: What. He's a what.
 {time=281}
 _Man: Meaning?
 
+{hold=20}
+Dialogue fades as camera turns back to the Ogre
+
 {time=283}
 _Ogre:
 Something has changed
@@ -108,8 +115,12 @@ Starlite has turned to day
 {time=312}
 The Ogre burps, then drops the mic, gangsta style.
 
+{hold=12}
 {time=317.2}
 _Voice_on_bar_TV: I'm just saying, software has feelings too.
+
+{time=329}
+www.morashon.com
 
 {time=339}
 
