@@ -3,7 +3,7 @@ Scene: Starlite Lounge, a piano bar.  We are in a virtual world -- the scene and
 
 {time=10}
 {hold=20}
-A spotlight comes up on the Pianoman -- a typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking synth setup doing drums, strings etc; he plays a shiny black baby grand. Intro to "Starlite" is played with much fanfare. More lights come up slowly, revealing three people at the bar -- an older woman in a provocative dress, a poorly dressed drunk, and our protagonist, Thisone.
+A spotlight comes up on the Pianoman -- a typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking synth setup doing drums, strings etc; he plays a shiny black baby grand. Intro to "Starlite" is played with much fanfare. More lights come up slowly, revealing two people at the bar -- a man in his 30's, and a woman, younger.
 
 {time=40}
 
@@ -39,20 +39,20 @@ Something has changed
 Starlite has turned to day
 
 {time=161}
-_Annai: Why are you looking at me?
+_Woman: Why are you looking at me?
 
 {time=164}
-_Thisone: You look nice.
+_Man: You look nice.
 
-{time=165.6}
-_Annai: How would you know?
+{time=165.8}
+_Woman: How would you know?
 
-{time=167}
-_Thisone: I don't.
+{time=167.6}
+_Man: I don't.
 
 Dialogue fades into the background
 
-{time=168.1}
+{time=168.85}
 _Ogre:
 It was a misty morning afternoon
 The sun was shining on the bride and groom
@@ -61,23 +61,23 @@ Danced 'till noon
 Under the Starlite in our room
 
 {time=196}
-_Annai: I like this song.  It's a bit sappy.
+_Woman: I like this song.  It's a bit sappy.
 
-_Thisone: Yes, quite a bit.  Interesting chord progression.
+_Man: Yes, quite a bit.  Interesting chord progression.
 
-_Annai: You like music, then.
+_Woman: You like music, then.
 
-_Thisone: I like some music.  I'm picky.
+_Man: I like some music.  I'm picky.
 
-_Annai: Morashon?
+_Woman: Morashon?
 
-_Thisone: More a -- what?
+_Man: More a -- what?
 
 {time=210}
-_Annai: Ack.  You don't get out much.
+_Woman: Ack.  You don't get out much.
 
 {time=217}
-_Annai: Let's go!
+_Woman: Let's go!
 
 {time=251.6}
 _NOACTOR:
@@ -88,15 +88,26 @@ And when it's hard on me and you
 We think of Starlite we once new
 
 {time=271}
-_Thisone: So what is this? A DJ? A group? Some band? Umm, what?
+_Man: So what is this? A DJ? A group? Some band? Umm, what?
 
-_Annai: What. He's a what.
+_Woman: What. He's a what.
 
 {time=275}
-_Thisone: Meaning?
+_Man: Meaning?
 
-{time=316.6}
-_Morashon: I'm just saying, software has feelings too.
+While the Ogre sings the final verse of "Starlite", some of the instruments drop out, and the tempo is wrong. He appears flustered, waving at the piano player as he attempts to sing over the drums.  His voice goes strange.  Finally, he kicks a piece of equipment in frustration; his voice returns to normal, and the instruments return.
+
+_Ogre:
+Now as the years unwind
+Our love so true
+The morning sun illuminates our view
+And when it's hard on me and you
+We think of Starlite we once new
+
+The Ogre burps, then drops the mic, gangsta style.
+
+{time=317.2}
+_Voice_on_bar_TV: I'm just saying, software has feelings too.
 
 {time=339}
 
