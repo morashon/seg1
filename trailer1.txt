@@ -1,0 +1,129 @@
+Scene: Starlite Lounge, a piano bar.  We are in a virtual world -- the scene and characters are well rendered but clearly not real.
+
+_NOACTOR:
+Countdown: 14
+
+{time=1}
+_
+Countdown: 13
+
+{time=2}
+_
+Countdown: 12
+
+{time=3}
+_
+Countdown: 11
+
+{time=4}
+_
+Countdown: 10
+
+{time=5}
+_
+Countdown: 9
+
+{time=6}
+{hold=20}
+A spotlight comes up on the Pianoman -- a typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking synth setup doing drums, strings etc; he plays a shiny black baby grand. Intro to "Starlite" is played with much fanfare. More lights come up slowly, revealing three people at the bar -- an older woman in a provocative dress, a poorly dressed drunk, and our protagonist, Thisone.
+
+_
+Countdown: 8
+
+{time=7}
+_
+Countdown: 7
+
+{time=8}
+_
+Countdown: 6
+
+{time=9}
+_
+Countdown: 5
+
+{time=10}
+_
+Countdown: 4
+
+{time=11}
+_
+Countdown: 3
+
+{time=12}
+_
+Countdown: 2
+
+{time=13}
+_
+Countdown: 1
+
+{time=54}
+
+_Pianoman: Welcome, my friends, to the Starlite lounge -- where music is magic, and magic surrounds us every day. 
+Here to serenade you, I present our little green singing machine. His grammar may be questionable, his hygiene debatable; his ego is quite inflatable, and yet his spirit soars, unabated.
+
+Song: "Starlite"
+
+_Ogre:
+It was a starry night
+In mid July
+We were a lonely girl
+A lonely guy
+A lonely star was passing by
+Starlite was touching you & I
+
+_NOACTOR:
+We told the Moon, be still
+And light our way
+We told the Earth to stop
+And hold the day
+We told the Sun to stay away
+We told him Starlite was OK
+
+_Something is strange
+Something has changed
+Starlite has turned to day
+
+_Annai: Why are you looking at me?
+
+_Thisone: You look nice.
+
+_Annai: How would you know?
+
+_Thisone: I don't.
+
+_Ogre:
+It was a misty morning afternoon
+The sun was shining on the bride and groom
+We kissed 'till midnight
+Danced 'till noon
+Under the Starlite in our room
+
+_Annai: I like this song.  It's a bit sappy.
+
+_Thisone: Yes, quite a bit.  Interesting chord progression.
+
+_Annai: You like music, then.
+
+_Thisone: I like some music.  I'm picky.
+
+_Annai: Morashon?
+
+_Thisone: More a -- what?
+
+_Annai: Ack.  You don't get out much.
+
+_Annai: Let's go!
+
+_NOACTOR:
+Now as the years unwind
+Our love so true
+The morning sun illuminates our view
+And when it's hard on me and you
+We think of Starlite we once new
+
+_Morashon: I'm just saying, software has feelings too.
+
+{time=376}
+

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3001" name="seg1" sample-rate="44100" id-counter="40111" event-counter="0">
+<Session version="3001" name="seg1" sample-rate="44100" id-counter="40114" event-counter="0">
   <Config>
     <Option name="xfade-choice" value="ConstantPowerMinus3dB"/>
     <Option name="destructive-xfade-msecs" value="2"/>
@@ -7501,7 +7501,7 @@
 9150956 0.721770405769348
 9692544 0.832802891731262
 12559770 0.832802891731262
-12806233 0.609918892383575
+12742176 1.05060148239136
 12955458 0.314683347940445
 13043668 0.0923265293240547
 13141960 0.00752990879118443
@@ -7523,10 +7523,10 @@
           </AutomationList>
         </Automation>
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
-          <Port number="0" value="+4.410025"/>
+          <Port number="0" value="+4.410027"/>
           <Port number="1" value="+0.755000"/>
         </ladspa>
-        <Controllable name="Cutoff Frequency (Hz)" id="15156" flags="" value="4.410025119781" parameter="0"/>
+        <Controllable name="Cutoff Frequency (Hz)" id="15156" flags="" value="4.410026550293" parameter="0"/>
         <Controllable name="Resonance" id="15158" flags="" value="0.754999995232" parameter="1"/>
       </Processor>
       <Processor id="6887" name="Plate reverb" active="yes" user-latency="0" type="ladspa" unique-id="1423" count="1">
