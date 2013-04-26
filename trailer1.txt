@@ -1,7 +1,7 @@
-{hold=10}
+{hold=20}
 Scene: Starlite Lounge, a piano bar.  We are in a virtual world -- the scene and characters are well rendered but clearly not real.
 
-{time=10}
+{time=13}
 {hold=20}
 A spotlight comes up on the Pianoman -- a typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking synth setup doing drums, strings etc; he plays a shiny black baby grand. Intro to "Starlite" is played with much fanfare. More lights come up slowly, revealing two people at the bar -- a man in his 30's, and a woman, younger.
 
@@ -79,24 +79,10 @@ _Woman: Ack.  You don't get out much.
 {time=217}
 _Woman: Let's go!
 
-{time=251.6}
-_NOACTOR:
-Now as the years unwind
-Our love so true
-The morning sun illuminates our view
-And when it's hard on me and you
-We think of Starlite we once new
-
-{time=271}
-_Man: So what is this? A DJ? A group? Some band? Umm, what?
-
-_Woman: What. He's a what.
-
-{time=275}
-_Man: Meaning?
-
+{nudge=-5}
 While the Ogre sings the final verse of "Starlite", some of the instruments drop out, and the tempo is wrong. He appears flustered, waving at the piano player as he attempts to sing over the drums.  His voice goes strange.  Finally, he kicks a piece of equipment in frustration; his voice returns to normal, and the instruments return.
 
+{time=251.6}
 _Ogre:
 Now as the years unwind
 Our love so true
@@ -104,6 +90,22 @@ The morning sun illuminates our view
 And when it's hard on me and you
 We think of Starlite we once new
 
+{time=272}
+_Man: So what is this? A DJ? A group? Some band? Umm, what?
+
+{time=278}
+_Woman: What. He's a what.
+
+{time=281}
+_Man: Meaning?
+
+{time=283}
+_Ogre:
+Something has changed
+Something is strange
+Starlite has turned to day
+
+{time=312}
 The Ogre burps, then drops the mic, gangsta style.
 
 {time=317.2}
