@@ -1,70 +1,21 @@
+{hold=10}
 Scene: Starlite Lounge, a piano bar.  We are in a virtual world -- the scene and characters are well rendered but clearly not real.
 
-_NOACTOR:
-Countdown: 14
-
-{time=1}
-_
-Countdown: 13
-
-{time=2}
-_
-Countdown: 12
-
-{time=3}
-_
-Countdown: 11
-
-{time=4}
-_
-Countdown: 10
-
-{time=5}
-_
-Countdown: 9
-
-{time=6}
+{time=10}
 {hold=20}
 A spotlight comes up on the Pianoman -- a typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking synth setup doing drums, strings etc; he plays a shiny black baby grand. Intro to "Starlite" is played with much fanfare. More lights come up slowly, revealing three people at the bar -- an older woman in a provocative dress, a poorly dressed drunk, and our protagonist, Thisone.
 
-_
-Countdown: 8
+{time=40}
 
-{time=7}
-_
-Countdown: 7
+_Pianoman: Welcome, my friends, to the Starlite lounge -- where music is magic, and magic surrounds us every day.
 
-{time=8}
-_
-Countdown: 6
-
-{time=9}
-_
-Countdown: 5
-
-{time=10}
-_
-Countdown: 4
-
-{time=11}
-_
-Countdown: 3
-
-{time=12}
-_
-Countdown: 2
-
-{time=13}
-_
-Countdown: 1
-
-{time=54}
-
-_Pianoman: Welcome, my friends, to the Starlite lounge -- where music is magic, and magic surrounds us every day. 
+{time=50.1}
+_NOACTOR:
 Here to serenade you, I present our little green singing machine. His grammar may be questionable, his hygiene debatable; his ego is quite inflatable, and yet his spirit soars, unabated.
 
 Song: "Starlite"
 
+{time=67}
 _Ogre:
 It was a starry night
 In mid July
@@ -73,6 +24,7 @@ A lonely guy
 A lonely star was passing by
 Starlite was touching you & I
 
+{time=94.3}
 _NOACTOR:
 We told the Moon, be still
 And light our way
@@ -81,18 +33,26 @@ And hold the day
 We told the Sun to stay away
 We told him Starlite was OK
 
+{time=120}
 _Something is strange
 Something has changed
 Starlite has turned to day
 
+{time=161}
 _Annai: Why are you looking at me?
 
+{time=164}
 _Thisone: You look nice.
 
+{time=165.6}
 _Annai: How would you know?
 
+{time=167}
 _Thisone: I don't.
 
+Dialogue fades into the background
+
+{time=168.1}
 _Ogre:
 It was a misty morning afternoon
 The sun was shining on the bride and groom
@@ -100,6 +60,7 @@ We kissed 'till midnight
 Danced 'till noon
 Under the Starlite in our room
 
+{time=196}
 _Annai: I like this song.  It's a bit sappy.
 
 _Thisone: Yes, quite a bit.  Interesting chord progression.
@@ -112,10 +73,13 @@ _Annai: Morashon?
 
 _Thisone: More a -- what?
 
+{time=210}
 _Annai: Ack.  You don't get out much.
 
+{time=217}
 _Annai: Let's go!
 
+{time=251.6}
 _NOACTOR:
 Now as the years unwind
 Our love so true
@@ -123,7 +87,16 @@ The morning sun illuminates our view
 And when it's hard on me and you
 We think of Starlite we once new
 
+{time=271}
+_Thisone: So what is this? A DJ? A group? Some band? Umm, what?
+
+_Annai: What. He's a what.
+
+{time=275}
+_Thisone: Meaning?
+
+{time=316.6}
 _Morashon: I'm just saying, software has feelings too.
 
-{time=376}
+{time=339}
 
