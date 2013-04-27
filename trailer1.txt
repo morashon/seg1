@@ -40,6 +40,10 @@ _Something is strange
 Something has changed
 Starlite has turned to day
 
+{hold=16}
+{time=145}
+The camera careens around the bar, finally settling on the Man and Woman, two barstools apart.  They are making eye contact.
+
 {time=161}
 _Woman: Why are you looking at me?
 
@@ -52,7 +56,7 @@ _Woman: How would you know?
 {time=167.6}
 _Man: I don't.
 
-Dialogue fades into the background
+Dialogue fades into the background, as the shot comes back to the Ogre.
 
 {time=168.85}
 _Ogre:
@@ -61,6 +65,8 @@ The sun was shining on the bride and groom
 We kissed 'till midnight
 Danced 'till noon
 Under the Starlite in our room
+
+Camera returns to the bar.
 
 {time=196}
 _Woman: I like this song.  It's a bit sappy.
@@ -82,8 +88,11 @@ _Woman: Ack.  You don't get out much.
 {time=217}
 _Woman: Let's go!
 
+{time=222}
+Man pays check as Woman picks up her things and they prepare to leave.
+
 {hold=17}
-{nudge=-8}
+{nudge=8}
 While the Ogre sings the final verse of "Starlite", some of the instruments drop out, and the tempo is wrong. He appears flustered, waving at the piano player as he attempts to sing over the drums.  His voice goes strange.  Finally, he kicks a piece of equipment in frustration; his voice returns to normal, and the instruments return.
 
 {time=251.6}
@@ -93,6 +102,10 @@ Our love so true
 The morning sun illuminates our view
 And when it's hard on me and you
 We think of Starlite we once new
+
+{hold=10}
+{nudge=-3}
+The couple is now near the exit.
 
 {time=272}
 _Man: So what is this? A DJ? A group? Some band? Umm, what?
@@ -104,7 +117,7 @@ _Woman: What. He's a what.
 _Man: Meaning?
 
 {hold=20}
-Dialogue fades as camera turns back to the Ogre
+Dialogue fades as they leave, and the camera turns back to the Ogre.
 
 {time=283}
 _Ogre:
