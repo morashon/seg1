@@ -1,7 +1,15 @@
+MORASHON
+~
+The Open Source Musical
+
+_NOACTOR:
+www.morashon.com
+
+{time=4}
 {hold=20}
 Scene: Starlite Lounge, a piano bar.  We are in a virtual world -- the scene and characters are well rendered but clearly not real.
 
-{time=12}
+{time=14}
 {hold=28}
 A spotlight comes up on the Pianoman -- a typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking synth setup doing drums, strings etc; he plays a shiny black baby grand. Intro to "Starlite" is played with much fanfare. More lights come up slowly, revealing two people at the bar -- a man who could be 30, and a woman, younger.
 ~
@@ -17,7 +25,7 @@ _NOACTOR:
 Here to serenade you, I present our little green singing machine. His grammar may be questionable, his hygiene debatable; his ego is quite inflatable, and yet his spirit soars, unabated.
 
 {nudge=-7}
-{hold=10}
+{hold=20}
 A small, green, ogre-like creature about three feet tall climbs out from under the piano, picks up a cordless mike, clambers up onto the piano, and begins to sing. His voice is improbable.
 
 {time=67}
@@ -30,7 +38,6 @@ A lonely star was passing by
 Starlite was touching you & I
 
 {time=94.3}
-_NOACTOR:
 We told the Moon, be still
 And light our way
 We told the Earth to stop
@@ -45,8 +52,8 @@ Something has changed
 Starlite has turned to day
 
 {time=145}
-{hold=16}
-The camera careens around the bar, finally settling on the Man and Woman, two barstools apart.  They make eye contact.
+{hold=19}
+The camera careens around the bar, finally settling on The Man and The Woman, two barstools apart.  They make eye contact.
 
 {time=161}
 _Woman: Why are you looking at me?
@@ -61,6 +68,7 @@ _Woman: How would you know?
 _Man: I don't.
 
 {nudge=3}
+{hold=11}
 Dialogue fades into the background, as the camera comes back to the Ogre.
 
 {time=168.85}
@@ -94,14 +102,15 @@ _Woman: Ack.  You don't get out much.
 {hold=7}
 _Woman: Let's go!
 
-{time=222}
+{time=221}
+{hold=11}
 The Man settles with the bartender as The Woman picks up her things and they prepare to leave.
 
 {time=234}
 As the tempo picks up, the Ogre appears to be doing something like The Watusi.
 
 {time=244}
-{hold=17}
+{hold=21}
 While the Ogre sings the last verse, some of the instruments drop out and the tempo is wrong. He appears flustered, waving at the piano player as he attempts to sing over the drums.  His voice goes strange.  Finally, he kicks a piece of equipment in frustration; his voice returns to normal, and the instruments return.
 
 {time=251.6}
@@ -112,7 +121,7 @@ The morning sun illuminates our view
 And when it's hard on me and you
 We think of Starlite we once new
 
-{hold=10}
+{hold=17}
 The couple is now near the exit.
 
 {time=272}
@@ -126,6 +135,8 @@ _Man: Meaning?
 
 {hold=25}
 Dialogue fades as they leave, and the camera turns back to the Ogre. As he sings the final chorus, he turns his performance up to 11. 
+~
+He exhorts the nonexistant crowd to wave with him. Soon, his eyes are closed; he appears to be in a trance-like state.
 
 {time=283}
 {hold=27}
@@ -133,10 +144,6 @@ _Ogre:
 Something has changed
 Something is strange
 Starlite has turned to day
-
-{time=296.2}
-{hold=14}
-He exhorts the nonexistant crowd to wave with him. Soon, his eyes are closed; he appears to be in a trance-like state.
 
 {time=312}
 {hold=12}
