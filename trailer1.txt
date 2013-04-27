@@ -3,7 +3,9 @@ Scene: Starlite Lounge, a piano bar.  We are in a virtual world -- the scene and
 
 {time=12}
 {hold=28}
-A spotlight comes up on the Pianoman -- a typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking synth setup doing drums, strings etc; he plays a shiny black baby grand. Intro to "Starlite" is played with much fanfare. More lights come up slowly, revealing two people at the bar -- a man in his 30's, and a woman, younger.
+A spotlight comes up on the Pianoman -- a typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking synth setup doing drums, strings etc; he plays a shiny black baby grand. Intro to "Starlite" is played with much fanfare. More lights come up slowly, revealing two people at the bar -- a man who could be 30, and a woman, younger.
+~
+A bartender is cleaning glasses.
 
 {time=40}
 
@@ -14,8 +16,8 @@ _Pianoman: Welcome, my friends, to the Starlite lounge -- where music is magic, 
 _NOACTOR:
 Here to serenade you, I present our little green singing machine. His grammar may be questionable, his hygiene debatable; his ego is quite inflatable, and yet his spirit soars, unabated.
 
-{hold=10}
 {nudge=-7}
+{hold=10}
 A small, green, ogre-like creature about three feet tall climbs out from under the piano, picks up a cordless mike, clambers up onto the piano, and begins to sing. His voice is improbable.
 
 {time=67}
@@ -36,14 +38,14 @@ And hold the day
 We told the Sun to stay away
 We told him Starlite was OK
 
-{hold=16}
 {time=120}
+{hold=23.45}
 _Something is strange
 Something has changed
 Starlite has turned to day
 
-{hold=16}
 {time=145}
+{hold=16}
 The camera careens around the bar, finally settling on the Man and Woman, two barstools apart.  They make eye contact.
 
 {time=161}
@@ -58,6 +60,7 @@ _Woman: How would you know?
 {time=167.6}
 _Man: I don't.
 
+{nudge=3}
 Dialogue fades into the background, as the camera comes back to the Ogre.
 
 {time=168.85}
@@ -87,15 +90,18 @@ _Man: More a -- what?
 {time=210}
 _Woman: Ack.  You don't get out much.
 
-{hold=6}
 {time=217}
+{hold=7}
 _Woman: Let's go!
 
 {time=222}
-The Man settles with the bartender as the Woman picks up her things and they prepare to leave.
+The Man settles with the bartender as The Woman picks up her things and they prepare to leave.
 
-{hold=17}
+{time=234}
+As the tempo picks up, the Ogre appears to be doing something like The Watusi.
+
 {time=244}
+{hold=17}
 While the Ogre sings the final verse of "Starlite", some of the instruments drop out, and the tempo is wrong. He appears flustered, waving at the piano player as he attempts to sing over the drums.  His voice goes strange.  Finally, he kicks a piece of equipment in frustration; his voice returns to normal, and the instruments return.
 
 {time=251.6}
@@ -106,8 +112,8 @@ The morning sun illuminates our view
 And when it's hard on me and you
 We think of Starlite we once new
 
+{nudge=-1.6}
 {hold=10}
-{nudge=-3}
 The couple is now near the exit.
 
 {time=272}
@@ -119,25 +125,25 @@ _Woman: What. He's a what.
 {time=281}
 _Man: Meaning?
 
-{hold=20}
+{hold=25}
 Dialogue fades as they leave, and the camera turns back to the Ogre.
 
-{hold=27}
 {time=283}
+{hold=27}
 _Ogre:
 Something has changed
 Something is strange
 Starlite has turned to day
 
 {time=312}
-The Ogre burps, then drops the mic, gangsta style.  He scrambles off the piano and exits with attitude.
+The Ogre burps, then drops the mic, gangsta style.  He scrambles off the piano, and exits with attitude.
 
-{hold=12}
 {time=320}
+{hold=12}
 Camera shows the bartender wiping down the bar, over which hangs an old, boxy television set, giving the room a blue glow as the main lights fade.
 
 {time=324}
-_Voice on TV: 
+_Voice from TV: 
 I'm just saying, software has feelings too.
 
 {time=331}
