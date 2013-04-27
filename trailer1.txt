@@ -126,7 +126,9 @@ _Woman: What. He's a what.
 _Man: Meaning?
 
 {hold=25}
-Dialogue fades as they leave, and the camera turns back to the Ogre.
+Dialogue fades as they leave, and the camera turns back to the Ogre. As he sings the final chorus, he turns his performance up to 11. 
+~
+He exhorts the nonexistant crowd to wave with him.
 
 {time=283}
 {hold=27}
@@ -136,7 +138,7 @@ Something is strange
 Starlite has turned to day
 
 {time=312}
-The Ogre burps, then drops the mic, gangsta style.  He scrambles off the piano, and exits with attitude.
+The Ogre burps, then drops the mic, gangsta style.  He scrambles off the piano and makes his exit.
 
 {time=320}
 {hold=12}
@@ -146,7 +148,7 @@ Camera shows the bartender wiping down the bar, over which hangs an old, boxy te
 _Voice from TV: 
 I'm just saying, software has feelings too.
 
-{time=331}
+{time=328}
 _NOACTOR:
 www.morashon.com
 
