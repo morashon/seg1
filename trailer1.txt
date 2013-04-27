@@ -134,8 +134,8 @@ Something has changed
 Something is strange
 Starlite has turned to day
 
-{time=298.2}
-{hold=12.5}
+{time=296.2}
+{hold=14}
 He exhorts the nonexistant crowd to wave with him. Soon, his eyes are closed; he appears to be in a trance-like state.
 
 {time=312}

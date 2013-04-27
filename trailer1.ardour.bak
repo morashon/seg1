@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3001" name="seg1" sample-rate="44100" id-counter="47406" event-counter="0">
+<Session version="3001" name="seg1" sample-rate="44100" id-counter="47477" event-counter="0">
   <Config>
     <Option name="xfade-choice" value="ConstantPowerMinus3dB"/>
     <Option name="destructive-xfade-msecs" value="2"/>
@@ -7638,7 +7638,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="15116" flags="GainLike" value="0.331116598665"/>
+        <Controllable name="gaincontrol" id="15116" flags="GainLike" value="0.387121574932"/>
       </Processor>
       <Processor id="15117" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="15118" name="Music2" active="yes" user-latency="0" own-input="yes" own-output="no" output="Music2" type="main-outs" role="Main">
@@ -7731,7 +7731,7 @@
           <Port number="0" value="+4.410026"/>
           <Port number="1" value="+0.755000"/>
         </ladspa>
-        <Controllable name="Cutoff Frequency (Hz)" id="15156" flags="" value="4.410026073456" parameter="0"/>
+        <Controllable name="Cutoff Frequency (Hz)" id="15156" flags="" value="4.410025596619" parameter="0"/>
         <Controllable name="Resonance" id="15158" flags="" value="0.754999995232" parameter="1"/>
       </Processor>
       <Processor id="6887" name="Plate reverb" active="yes" user-latency="0" type="ladspa" unique-id="1423" count="1">
@@ -8125,7 +8125,7 @@
   </Routes>
   <Playlists>
     <Playlist id="39804" name="software_has_feelings1" type="audio" orig-track-id="39776" frozen="no" combine-ops="0">
-      <Region locked="0" name="software_has_feelings1.2" position="14955963" length="55134" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" sync-position="0" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="45486" type="audio" first-edit="nothing" source-0="39765" master-source-0="39765" channels="1">
+      <Region locked="0" name="software_has_feelings1.2" position="14935294" length="55134" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" sync-position="0" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="45486" type="audio" first-edit="nothing" source-0="39765" master-source-0="39765" channels="1">
         <FadeIn>
           <AutomationList automation-id="fadein" id="45487" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
             <events>0 0
@@ -8226,7 +8226,7 @@
           </AutomationList>
         </InvFadeOut>
       </Region>
-      <Region locked="0" name="software_has_feelings1.3" position="15026674" length="96283" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="55134" sync-position="55134" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="45495" type="audio" first-edit="nothing" source-0="39765" master-source-0="39765" channels="1">
+      <Region locked="0" name="software_has_feelings1.3" position="14996378" length="96283" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="55134" sync-position="55134" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="45495" type="audio" first-edit="nothing" source-0="39765" master-source-0="39765" channels="1">
         <FadeIn>
           <AutomationList automation-id="fadein" id="45496" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
             <events>0 0
@@ -11647,7 +11647,7 @@
       </Region>
     </Playlist>
     <Playlist id="39867" name="software_has_feelings2" type="audio" orig-track-id="39839" frozen="no" combine-ops="0">
-      <Region locked="0" name="software_has_feelings2.2" position="14957258" length="53839" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" sync-position="0" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="45505" type="audio" first-edit="nothing" source-0="39828" master-source-0="39828" channels="1">
+      <Region locked="0" name="software_has_feelings2.2" position="14936589" length="53839" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" sync-position="0" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="45505" type="audio" first-edit="nothing" source-0="39828" master-source-0="39828" channels="1">
         <FadeIn>
           <AutomationList automation-id="fadein" id="45506" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
             <events>0 0
@@ -11748,7 +11748,7 @@
           </AutomationList>
         </InvFadeOut>
       </Region>
-      <Region locked="0" name="software_has_feelings2.3" position="15026674" length="97578" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="53839" sync-position="53839" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="45514" type="audio" first-edit="nothing" source-0="39828" master-source-0="39828" channels="1">
+      <Region locked="0" name="software_has_feelings2.3" position="14996378" length="97578" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="53839" sync-position="53839" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="45514" type="audio" first-edit="nothing" source-0="39828" master-source-0="39828" channels="1">
         <FadeIn>
           <AutomationList automation-id="fadein" id="45515" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
             <events>0 0

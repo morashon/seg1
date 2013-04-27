@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3001" name="seg1" sample-rate="44100" id-counter="47477" event-counter="0">
+<Session version="3001" name="seg1" sample-rate="44100" id-counter="49270" event-counter="0">
   <Config>
     <Option name="xfade-choice" value="ConstantPowerMinus3dB"/>
     <Option name="destructive-xfade-msecs" value="2"/>
@@ -7535,7 +7535,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="15085" flags="GainLike" value="0.000000000000"/>
+        <Controllable name="gaincontrol" id="15085" flags="GainLike" value="0.638883767010"/>
       </Processor>
       <Processor id="15086" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="15087" name="Music1" active="yes" user-latency="0" own-input="yes" own-output="no" output="Music1" type="main-outs" role="Main">
@@ -7604,8 +7604,8 @@
           <AutomationList automation-id="gain" id="2019" default="1" min-yval="0" max-yval="2" interpolation-style="Linear" state="Play" style="Absolute">
             <events>672843 0.674221575260162
 2269355 0.903936564922333
-2471297 0.426164716482162
-3015460 0.476893424987793
+2467219 0.528129756450653
+3015460 0.58660215139389
 3105408 0.696904540061951
 3453501 0.502854287624359
 3624506 0.949261009693146
@@ -7638,7 +7638,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="15116" flags="GainLike" value="0.387121574932"/>
+        <Controllable name="gaincontrol" id="15116" flags="GainLike" value="0.949544282758"/>
       </Processor>
       <Processor id="15117" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="15118" name="Music2" active="yes" user-latency="0" own-input="yes" own-output="no" output="Music2" type="main-outs" role="Main">
@@ -7668,7 +7668,7 @@
       <MuteMaster mute-point="PreFader,PostFader,Listen,Main" muted="no"/>
       <RemoteControl id="3"/>
       <Pannable>
-        <Controllable name="pan-azimuth" id="15134" flags="" value="0.615559186638"/>
+        <Controllable name="pan-azimuth" id="15134" flags="" value="0.211419370033"/>
         <Controllable name="pan-width" id="15138" flags="" value="0.000000000000"/>
         <Controllable name="pan-elevation" id="15136" flags="" value="0.000000000000"/>
         <Controllable name="pan-frontback" id="15140" flags="" value="0.000000000000"/>
@@ -7714,7 +7714,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="15147" flags="GainLike" value="0.000000000000"/>
+        <Controllable name="gaincontrol" id="15147" flags="GainLike" value="1.268289089203"/>
       </Processor>
       <Processor id="14047" name="GLAME Butterworth Highpass" active="yes" user-latency="0" type="ladspa" unique-id="1904" count="1">
         <Automation>
@@ -7728,10 +7728,10 @@
           </AutomationList>
         </Automation>
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
-          <Port number="0" value="+4.410026"/>
+          <Port number="0" value="+4.410000"/>
           <Port number="1" value="+0.755000"/>
         </ladspa>
-        <Controllable name="Cutoff Frequency (Hz)" id="15156" flags="" value="4.410025596619" parameter="0"/>
+        <Controllable name="Cutoff Frequency (Hz)" id="15156" flags="" value="4.409999847412" parameter="0"/>
         <Controllable name="Resonance" id="15158" flags="" value="0.754999995232" parameter="1"/>
       </Processor>
       <Processor id="6887" name="Plate reverb" active="yes" user-latency="0" type="ladspa" unique-id="1423" count="1">
@@ -7790,7 +7790,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="34546" flags="GainLike" value="0.712532401085"/>
+        <Controllable name="gaincontrol" id="34546" flags="GainLike" value="0.970854399325"/>
       </Processor>
       <Processor id="45343" name="Plate reverb" active="yes" user-latency="0" type="ladspa" unique-id="1423" count="1">
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
@@ -7889,7 +7889,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="15190" flags="GainLike" value="0.130935803056"/>
+        <Controllable name="gaincontrol" id="15190" flags="GainLike" value="1.079382940156"/>
       </Processor>
       <Processor id="1269" name="C* Plate2x2 - Versatile plate reverb, stereo inputs" active="yes" user-latency="0" type="ladspa" unique-id="1795" count="1">
         <Automation>
@@ -7970,12 +7970,12 @@
           <Port number="2" value="+0.399526"/>
           <Port number="3" value="+0.166015"/>
           <Port number="4" value="+0.255527"/>
-          <Port number="5" value="+0.239268"/>
+          <Port number="5" value="+0.247423"/>
         </ladspa>
         <Controllable name="bandwidth" id="15199" flags="" value="0.399526000023" parameter="2"/>
         <Controllable name="tail" id="15201" flags="" value="0.166014999151" parameter="3"/>
         <Controllable name="damping" id="15203" flags="" value="0.255526989698" parameter="4"/>
-        <Controllable name="blend" id="15205" flags="" value="0.239267870784" parameter="5"/>
+        <Controllable name="blend" id="15205" flags="" value="0.247422665358" parameter="5"/>
       </Processor>
       <Processor id="15191" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="15192" name="Dialogue1" active="yes" user-latency="0" own-input="yes" own-output="no" output="Dialogue1" type="main-outs" role="Main">
@@ -8005,7 +8005,7 @@
       <MuteMaster mute-point="PreFader,PostFader,Listen,Main" muted="no"/>
       <RemoteControl id="6"/>
       <Pannable>
-        <Controllable name="pan-azimuth" id="39784" flags="" value="0.148648648246"/>
+        <Controllable name="pan-azimuth" id="39784" flags="" value="0.148648649454"/>
         <Controllable name="pan-width" id="39788" flags="" value="0.000000000000"/>
         <Controllable name="pan-elevation" id="39786" flags="" value="0.000000000000"/>
         <Controllable name="pan-frontback" id="39790" flags="" value="0.000000000000"/>
@@ -13069,11 +13069,11 @@
       <Window name="M-2017-15118" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-6735-15145" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-6735-14047" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="M-6735-6887" visible="yes" x-off="3" y-off="112" x-size="401" y-size="185"/>
+      <Window name="M-6735-6887" visible="yes" x-off="4" y-off="140" x-size="401" y-size="185"/>
       <Window name="M-6735-15148" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-6735-15149" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-34525-34544" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="M-34525-45343" visible="yes" x-off="9" y-off="354" x-size="401" y-size="185"/>
+      <Window name="M-34525-45343" visible="yes" x-off="10" y-off="382" x-size="401" y-size="185"/>
       <Window name="M-34525-34547" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-34525-34548" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-177-15188" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -13081,11 +13081,11 @@
       <Window name="M-177-15191" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-177-15192" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-39776-39795" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="M-39776-41837" visible="yes" x-off="5" y-off="168" x-size="401" y-size="367"/>
+      <Window name="M-39776-41837" visible="yes" x-off="6" y-off="196" x-size="401" y-size="367"/>
       <Window name="M-39776-39798" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-39776-39799" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-39839-39858" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="M-39839-41859" visible="yes" x-off="4" y-off="140" x-size="405" y-size="809"/>
+      <Window name="M-39839-41859" visible="yes" x-off="5" y-off="168" x-size="405" y-size="809"/>
       <Window name="M-39839-39861" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-39839-39862" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-18-15058" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
