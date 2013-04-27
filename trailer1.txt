@@ -2,6 +2,7 @@ MORASHON
 ~
 The Open Source Musical
 
+{hold=26}
 _NOACTOR:
 www.morashon.com
 
@@ -38,7 +39,7 @@ A lonely star was passing by
 Starlite was touching you & I
 
 {time=94.3}
-We told the Moon, be still
+_We told the Moon, be still
 And light our way
 We told the Earth to stop
 And hold the day
