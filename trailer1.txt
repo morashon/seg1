@@ -112,7 +112,6 @@ The morning sun illuminates our view
 And when it's hard on me and you
 We think of Starlite we once new
 
-{nudge=-1.6}
 {hold=10}
 The couple is now near the exit.
 
@@ -127,8 +126,6 @@ _Man: Meaning?
 
 {hold=25}
 Dialogue fades as they leave, and the camera turns back to the Ogre. As he sings the final chorus, he turns his performance up to 11. 
-~
-He exhorts the nonexistant crowd to wave with him.
 
 {time=283}
 {hold=27}
@@ -137,18 +134,27 @@ Something has changed
 Something is strange
 Starlite has turned to day
 
+{time=298}
+{hold=27}
+He exhorts the nonexistant crowd to wave with him. Soon, his eyes are closed; he appears to be in a trance-like state.
+
 {time=312}
+{hold=12}
 The Ogre burps, then drops the mic, gangsta style.  He scrambles off the piano and makes his exit.
 
 {time=320}
-{hold=12}
+{hold=10.25}
 Camera shows the bartender wiping down the bar, over which hangs an old, boxy television set, giving the room a blue glow as the main lights fade.
 
 {time=324}
 _Voice from TV: 
 I'm just saying, software has feelings too.
 
-{time=328}
+{time=330.3}
+MORASHON
+~
+The Open Source Musical
+
 _NOACTOR:
 www.morashon.com
 
