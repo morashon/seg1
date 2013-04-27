@@ -314,7 +314,7 @@
       </Changes>
     </StatefulDiffCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1367057442" tv-usec="491338" name="automation event move">
+  <UndoTransaction tv-sec="1367057442" tv-usec="3909317424" name="automation event move">
     <MementoUndoCommand obj-id="2019" type-name="ARDOUR::AutomationList">
       <AutomationList automation-id="gain" id="2019" default="1" min-yval="0" max-yval="2" interpolation-style="Linear" state="Play" style="Absolute">
         <events>672843 0.674221575260162
@@ -392,7 +392,7 @@
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1367057449" tv-usec="490912" name="automation event move">
+  <UndoTransaction tv-sec="1367057449" tv-usec="3909317424" name="automation event move">
     <MementoUndoCommand obj-id="2019" type-name="ARDOUR::AutomationList">
       <AutomationList automation-id="gain" id="2019" default="1" min-yval="0" max-yval="2" interpolation-style="Linear" state="Play" style="Absolute">
         <events>672843 0.674221575260162
