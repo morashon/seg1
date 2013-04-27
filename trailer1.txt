@@ -102,7 +102,7 @@ As the tempo picks up, the Ogre appears to be doing something like The Watusi.
 
 {time=244}
 {hold=17}
-While the Ogre sings the last verse, some of the instruments drop out, and the tempo is wrong. He appears flustered, waving at the piano player as he attempts to sing over the drums.  His voice goes strange.  Finally, he kicks a piece of equipment in frustration; his voice returns to normal, and the instruments return.
+While the Ogre sings the last verse, some of the instruments drop out and the tempo is wrong. He appears flustered, waving at the piano player as he attempts to sing over the drums.  His voice goes strange.  Finally, he kicks a piece of equipment in frustration; his voice returns to normal, and the instruments return.
 
 {time=251.6}
 _Ogre:
