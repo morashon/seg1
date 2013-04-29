@@ -68,8 +68,8 @@ _Woman: How would you know?
 {time=167.6}
 _Man: I don't.
 
-{nudge=3}
-{hold=11}
+{nudge=1}
+{hold=13}
 Dialogue fades into the background, as the camera comes back to the Ogre.
 
 {time=168.85}
