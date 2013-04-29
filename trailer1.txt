@@ -164,7 +164,9 @@ MORASHON
 The Open Source Musical
 
 _NOACTOR:
-www.morashon.com
+Words, music, dialogue: MORASHON
+Voices: MORASHON
+
 
 {time=340}
 
