@@ -65,12 +65,11 @@ _Man: You look nice.
 {time=165.8}
 _Woman: How would you know?
 
+{hold=14}
+Dialogue fades into the background, as the camera comes back to the Ogre.
+
 {time=167.6}
 _Man: I don't.
-
-{nudge=1}
-{hold=13}
-Dialogue fades into the background, as the camera comes back to the Ogre.
 
 {time=168.85}
 _Ogre:
@@ -108,7 +107,7 @@ _Woman: Let's go!
 The Man settles with the bartender as The Woman picks up her things and they prepare to leave.
 
 {time=234}
-As the tempo picks up, the Ogre appears to be doing something like The Watusi.
+As the tempo picks up, the Ogre appears to be doing his own version of The Watusi.
 
 {time=244}
 {hold=21}
