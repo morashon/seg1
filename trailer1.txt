@@ -1,16 +1,22 @@
-MORASHON
+{hold=10}
+MORASHON (Trailer)
 ~
-The Open Source Musical
+I am seeking collaborators. 
+contact: morashon@morashon.com
+~
+More information at www.morashon.com
 
-{hold=26}
+{hold=14}
 _NOACTOR:
-www.morashon.com
+This work is licensed under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/)
+~
+Words, music, performance (c) 2013 by Morashon
 
-{time=4}
+{time=10}
 {hold=20}
 Scene: Starlite Lounge, a piano bar.  We are in a virtual world -- the scene and characters are well rendered but clearly not real.
 
-{time=14}
+{time=17}
 {hold=28}
 A spotlight comes up on the Pianoman -- a typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking synth setup doing drums, strings etc; he plays a shiny black baby grand. Intro to "Starlite" is played with much fanfare. More lights come up slowly, revealing two people at the bar -- a man who could be 30, and a woman, younger.
 ~
